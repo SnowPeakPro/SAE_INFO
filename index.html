@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parking Montpellier</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="barre_top">
+        <nav class="navbar">
+            <a href="#Acceuil">Accueil</a>
+            <a href="#Rapport">Rapport</a>
+            <a href="#Données">Données</a>
+            <a href="#Contact">Contact</a>
+        </nav>
+    </div>
+    <div class="Acceuil" id="Acceuil">
+        <h1 class="main-text">Rapport Parkings Montpellier</h1>
+        <p class="sub-text">Loïc VIDAL-FERRASSE & Roméo MARAVAL</p>
+        <a class="custom-button" href="#Rapport">Consultez le rapport</a>
+    </div>
+    <div class="Rapport" id="Rapport">
+        <h1 class="titre_a_propos" >Résultats</h1>
+        <p class="rapport_texte">
+
+        <question>Prérequis parkings et vélomaggs</question><br><br>
+        Nous avons mené cette étude sur les 24 parkings voitures de votre charmante ville de Montpellier. 
+        Nous avons collecté les données de ces parkings sur une période d'une semaine en direct, 
+        et nous avons analysé les données historiques sur plus d'une année.
+        <br>Ainsi que sur les 57 vélomaggs de la ville
+        <br><br><br><br>
+        <question>Quel est le taux de remplissage moyen ?</question> <br><br>En moyenne sur une journée 
+        le taux moyen de remplissage des parkings voitures dans la ville est de <span>58,1%.</span><br> 
+        Pour les parkings vélo ce taux d'utilisation est de <span>56,7%.</span><br><br><br><br>
+        
+        <question>Quand les parkings sont-ils saturés ?</question><br><br>
+        Les parkings ne sont pas particulièrement saturés de manière globale , mais sont davantage remplis de <span>8h jusqu'a 18h</span> en moyenne. 
+        Même si certain jours comme le Samedi où ils sont remplis jusqu'a des heures un peu plus tardives.<br><br>
+        <br><br>
+        
+        <question>Y a-t-il des jours particuliers d affluence dans la semaine, ou des mois plus chargés que d autres ?</question><br><br>
+        Il y a particulièrement de monde dans les parkings le <span>samedi et dimanche</span> du côté du centre ville et des zones commerciales.
+        <br>Mais de manière générale ce sont les autres jours de la semaine qui sont les plus chargés en terme d'occupation sur l'entièreté des parkings de la ville.
+        <br>Ainsi que les mois de <span>novembre , décembre</span> qui sont particulièrement chargés par rapport au reste de l'année.<br><br><br><br>
+        
+        <question>Tous les parkings obéissent-ils aux mêmes rêgles d'évolution ?</question><br><br>
+        Non les parkings situés vers le centre ville et les zones commerciales sont beaucoup plus remplis<br><br><br><br>
+        
+        <question>Y a t'il des parkings plus saturés que les autres ?</question><br><br>
+        Oui nous voyons bien que certains parkings comme <span>"Foch" "Mosson" "Vicarello" "Sabines" "Arc de Triomphe" "Corum"</span>
+        arrivent beaucoup plus a saturation que les autres.<br><br><br><br>
+        
+        <question>Y a t'il des parkings sous-utilisés ?</question><br><br>
+        Oui nous voyons bien que certains parkings comme <span>"Saint Jean Le Sec" "Circe" "Polygone"</span>
+        sont beaucoup moins remplis que les autres et ont donc une taille surestimée par rapport à la demande<br><br><br><br>
+        
+        <question>Y a t'il un rapport entre le taux d'occupation des parkings et l'utilisation des vélomaggs ?</question><br><br>
+        Lorsque les parkings suivants sont assez remplis nous observons une diminution de la disponibilité des vélos dans les vélommags indiqués ci-dessous
+        pouvant être une corrélation, les personnes garent leur voitures et vont chercher un vélo pour se déplacer de manière plus saine pour la planète
+        <br><br><span>Parking Foch :</span> <br>
+
+        Vélomagg Jules Ferry (25% de places libres) : à 1 minute à pied.<br>
+        Vélomagg Saint-Roch (35% de places libres) : à 4 minutes à pied.<br>
+        Vélomagg Albert 1er (20% de places libres) : à 5 minutes à pied. <br><br>
+
+        <span>Parking Comédie :</span> <br>
+
+        Vélomagg Jules Ferry (25% de places libres) : à 4 minutes à pied.<br>
+        Vélomagg Saint-Roch (35% de places libres) : à 1 minute à pied.<br>
+        Vélomagg Albert 1er (20% de places libres) : à 6 minutes à pied.<br><br>
+
+        <span>Parking Gambetta :</span><br>
+
+        Vélomagg Jules Ferry (25% de places libres) : à 5 minutes à pied.<br>
+        Vélomagg Albert 1er (20% de places libres) : à 1 minute à pied.<br>
+        Vélomagg Saint-Roch (35% de places libres) : à 6 minutes à pied. <br><br><br><br>
+        
+
+        <question>Y a t'il un rapport entre le taux d'occupation des parkings voitures et le tramway ?</question><br><br>
+        Les parkings voitures suivants  <span>"Sabines" et "Euromédecine" </span> sont assez remplis et ont une certaine
+        proximité avec les lignes de tramway de 5 à 10 minutes à pied <span>( Ligne 1 pour Euromédecine et Ligne 2 pour Sabines )</span>
+
+        <h2 class="titre_h25">Carte des parkings et vélomaggs</h2>
+        <img src="images/map.png" class="graphe66">
+
+
+
+        </p>
+    </div>
+    <div class="Données" id="Données">
+        <div class="donnee_visuel" >
+            <h2>Données</h2>
+            <h2 class="titre_h27">Occupation moyenne des parkings voitures dans la ville (17/01 au 23/01)</h2>
+            <div class="barre_parking">
+                <label for="Lundi" >Lundi</label>
+                <input type="range" id="Jour" min="0" max="100" value="48" disabled>
+                <span>48%</span>
+            </div>
+            <div class="barre_parking">
+                <label for="Mardi">Mardi</label>
+                <input type="range" id="Jour" min="0" max="100" value="48" disabled>
+                <span>48%</span>
+            </div>
+            <div class="barre_parking">
+                <label for="Mercredi">Mercredi</label>
+                <input type="range" id="Jour" min="0" max="100" value="50" disabled>
+                <span>50%</span>
+            </div>
+            <div class="barre_parking">
+                <label for="Jeudi">Jeudi</label>
+                <input type="range" id="Jour" min="0" max="100" value="51" disabled>
+                <span>51%</span>
+            </div>
+            <div class="barre_parking">
+                <label for="Vendredi">Vendredi</label>
+                <input type="range" id="Jour" min="0" max="100" value="46" disabled>
+                <span>46%</span>
+            </div>
+            <div class="barre_parking">
+                <label for="Samedi">Samedi</label>
+                <input type="range" id="Jour" min="0" max="100" value="37" disabled>
+                <span>37%</span>
+            </div>
+            <div class="barre_parking">
+                <label for="Dimanche">Dimanche</label>
+                <input type="range" id="Jour" min="0" max="100" value="30" disabled>
+                <span>30%</span>
+            </div>
+
+
+            <h2 class="titre_h266">Occupation moyenne des vélomaggs dans la ville (17/01 au 23/01)</h2>
+            <div class="barre_parking">
+                <label for="Lundi" >Lundi</label>
+                <input type="range" id="Jour" min="0" max="100" value="52" disabled>
+                <span>52%</span>
+            </div>
+            <div class="barre_parking">
+                <label for="Mardi">Mardi</label>
+                <input type="range" id="Jour" min="0" max="100" value="46" disabled>
+                <span>46%</span>
+            </div>
+            <div class="barre_parking">
+                <label for="Mercredi">Mercredi</label>
+                <input type="range" id="Jour" min="0" max="100" value="46" disabled>
+                <span>46%</span>
+            </div>
+            <div class="barre_parking">
+                <label for="Jeudi">Jeudi</label>
+                <input type="range" id="Jour" min="0" max="100" value="47" disabled>
+                <span>47%</span>
+            </div>
+            <div class="barre_parking">
+                <label for="Vendredi">Vendredi</label>
+                <input type="range" id="Jour" min="0" max="100" value="44" disabled>
+                <span>44%</span>
+            </div>
+            <div class="barre_parking">
+                <label for="Samedi">Samedi</label>
+                <input type="range" id="Jour" min="0" max="100" value="40" disabled>
+                <span>40%</span>
+            </div>
+            <div class="barre_parking">
+                <label for="Dimanche">Dimanche</label>
+                <input type="range" id="Jour" min="0" max="100" value="35" disabled>
+                <span>35%</span>
+            </div>
+
+            <h2 class="titre_h28">Pourcentages de places libres Samedi 18/01 parkings voitures</h2>
+            <img src="images/samedi_1_21_voitures.png" class="graphe2">
+
+            <h2 class="titre_h22">Pourcentages de places libres Dimanche 19/01 parkings voitures</h2>
+            <img src="images/dimanche_9_21_voitures.png" class="graphe2">
+
+            <h2 class="titre_h22">Pourcentages de places libres Lundi 20/01 parkings voitures</h2>
+            <img src="images/lundi_6_21_voitures.png" class="graphe2">
+
+            <h2 class="titre_h22">Pourcentages de places libres Jeudi 23/01 parkings voitures</h2>
+            <img src="images/jeudivoiture_23.png" class="graphe2">
+
+
+
+
+
+        </div>
+        <div class="donnee_graphe">
+            <h2>Graphes</h2>
+            <h2 class="titre_h2">Pourcentages de places libres Vendredi 17/01 parkings voitures</h2>
+            <img src="images/vendredi_5_22_voitures.png" class="graphe">
+
+            <h2 class="titre_h22">Pourcentages de places libres Vendredi 17/07 vélomaggs</h2>
+            <img src="images/vendredi_5_22_vélos.png" class="graphe">
+
+            <h2 class="titre_h22">Pourcentages de places libres Samedi 18/01 vélomaggs</h2>
+            <img src="images/samedi_1_21_vélos.png" class="graphe">
+
+            
+            <h2 class="titre_h23">Pourcentages de places libres Dimanche 19/01 vélomaggs</h2>
+            <img src="images/dimanche_9_21_vélos.png" class="graphe2">
+
+            <h2 class="titre_h22">Pourcentages de places libres Lundi 20/01 vélomaggs</h2>
+            <img src="images/lundi_6_21_vélo.png" class="graphe">
+
+            <h2 class="titre_h22">Pourcentages de places libres Jeudi 23/01 vélomaggs</h2>
+            <img src="images/jeudivelo_23.png" class="graphe">
+
+        </div>
+    </div>
+
+    <div class="infos" >
+        <div class="donnee_totale">
+            <h2 class="titre_h89">Pourcentage de places libres des différents parkings voitures le Mardi 14/01 à 10h</h2>
+            <img src="images/Courbe_voiture.png" class="graphe89">
+        </div>
+    </div>
+
+    <div class="Contact" id="Contact">
+        <h2>Contactez-Nous</h2>
+        <style>
+            @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400');
+        </style>
+            <ul>
+                <li>
+                    <a href="#">
+                        <i class="fa fa-facebook" aria-hidden="true"></i>
+                        <span> - Facebook</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="fa fa-twitter" aria-hidden="true"></i>
+                        <span> - Twitter</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="fa fa-google-plus" aria-hidden="true"></i>
+                        <span> - Google</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="fa fa-instagram" aria-hidden="true"></i>
+                        <span> - Instagram</span>
+                    </a>
+                </li>
+    </div>
+</body>

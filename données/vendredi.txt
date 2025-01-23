@@ -1,0 +1,1604 @@
+2025-01-17 05:51:37 - Places libres : 25.0% pour la rue Rue Jules Ferry - Gare Saint-Roch
+2025-01-17 05:51:37 - Places libres : 25.0% pour la rue Comédie
+2025-01-17 05:51:37 - Places libres : 75.0% pour la rue Hôtel de Ville
+2025-01-17 05:51:37 - Places libres : 58.33% pour la rue Corum
+2025-01-17 05:51:37 - Places libres : 48.15% pour la rue Place Albert 1er - St Charles
+2025-01-17 05:51:37 - Places libres : 75.0% pour la rue Foch
+2025-01-17 05:51:37 - Places libres : 66.67% pour la rue Halles Castellane
+2025-01-17 05:51:37 - Places libres : 100% pour la rue Observatoire
+2025-01-17 05:51:37 - Places libres : 75.0% pour la rue Rondelet
+2025-01-17 05:51:37 - Places libres : 8.33% pour la rue Plan Cabanes
+2025-01-17 05:51:37 - Places libres : 41.67% pour la rue Boutonnet
+2025-01-17 05:51:37 - Places libres : 37.5% pour la rue Emile Combes
+2025-01-17 05:51:37 - Places libres : 37.5% pour la rue Beaux-Arts
+2025-01-17 05:51:37 - Places libres : 50.0% pour la rue Les Aubes
+2025-01-17 05:51:37 - Places libres : 75.0% pour la rue Antigone centre
+2025-01-17 05:51:37 - Places libres : 87.5% pour la rue Médiathèque Emile Zola
+2025-01-17 05:51:37 - Places libres : 93.75% pour la rue Nombre d Or
+2025-01-17 05:51:37 - Places libres : 37.5% pour la rue Louis Blanc
+2025-01-17 05:51:37 - Places libres : 50.0% pour la rue Gambetta
+2025-01-17 05:51:37 - Places libres : 68.75% pour la rue Port Marianne
+2025-01-17 05:51:37 - Places libres : 37.5% pour la rue Les Arceaux
+2025-01-17 05:51:37 - Places libres : 50.0% pour la rue Cité Mion
+2025-01-17 05:51:37 - Places libres : 50.0% pour la rue Nouveau Saint-Roch
+2025-01-17 05:51:37 - Places libres : 50.0% pour la rue Renouvier
+2025-01-17 05:51:37 - Places libres : 100% pour la rue Odysseum
+2025-01-17 05:51:37 - Places libres : 100% pour la rue Saint-Denis
+2025-01-17 05:51:37 - Places libres : 18.75% pour la rue Richter
+2025-01-17 05:51:37 - Places libres : 62.5% pour la rue Charles Flahault
+2025-01-17 05:51:37 - Places libres : 25.0% pour la rue Voltaire
+2025-01-17 05:51:37 - Places libres : 37.5% pour la rue Prés d Arènes
+2025-01-17 05:51:37 - Places libres : 0.0% pour la rue Garcia Lorca
+2025-01-17 05:51:37 - Places libres : 37.5% pour la rue Vert Bois
+2025-01-17 05:51:37 - Places libres : 62.5% pour la rue Malbosc
+2025-01-17 05:51:37 - Places libres : 81.25% pour la rue Occitanie
+2025-01-17 05:51:37 - Places libres : 41.67% pour la rue FacdesSciences
+2025-01-17 05:51:37 - Places libres : 41.67% pour la rue Fac de Lettres
+2025-01-17 05:51:37 - Places libres : 0.0% pour la rue Aiguelongue
+2025-01-17 05:51:37 - Places libres : 50.0% pour la rue Jeu de Mail des Abbés
+2025-01-17 05:51:37 - Places libres : 50.0% pour la rue Euromédecine
+2025-01-17 05:51:37 - Places libres : 100% pour la rue Marie Caizergues
+2025-01-17 05:51:37 - Places libres : 75.0% pour la rue Sabines
+2025-01-17 05:51:37 - Places libres : 37.5% pour la rue Celleneuve
+2025-01-17 05:51:37 - Places libres : 87.5% pour la rue Jardin de la Lironde
+2025-01-17 05:51:37 - Places libres : 75.0% pour la rue Père Soulas
+2025-01-17 05:51:37 - Places libres : 12.5% pour la rue Place Viala
+2025-01-17 05:51:37 - Places libres : 75.0% pour la rue Hôtel du Département
+2025-01-17 05:51:37 - Places libres : 87.5% pour la rue Tonnelles
+2025-01-17 05:51:37 - Places libres : 25.0% pour la rue Parvis Jules Ferry - Gare Saint-Roch
+2025-01-17 05:51:37 - Places libres : 50.0% pour la rue Pont de Lattes - Gare Saint-Roch
+2025-01-17 05:51:37 - Places libres : 100% pour la rue Deux Ponts - Gare Saint-Roch
+2025-01-17 05:51:37 - Places libres : 75.0% pour la rue Providence - Ovalie
+2025-01-17 05:51:37 - Places libres : 48.53% pour la rue Pérols Etang de l Or
+2025-01-17 05:51:37 - Places libres : 58.33% pour la rue Albert 1er - Cathédrale
+2025-01-17 05:51:37 - Places libres : 0.0% pour la rue Saint-Guilhem - Courreau
+2025-01-17 05:51:37 - Places libres : 100% pour la rue Sud De France
+2025-01-17 05:51:37 - Places libres : 75.0% pour la rue Comedie Baudin
+2025-01-17 05:51:37 - Places libres : 37.5% pour la rue Jean de Beins
+
+Il y a en moyenne : 55.28% de places libres pour les vélos.
+
+2025-01-17 05:51:37 - Places libres : 61.92% pour le parking Antigone
+2025-01-17 05:51:37 - Places libres : 70.45% pour le parking Comedie
+2025-01-17 05:51:37 - Places libres : 73.88% pour le parking Corum
+2025-01-17 05:51:37 - Places libres : 83.42% pour le parking Europa
+2025-01-17 05:51:37 - Places libres : 14.88% pour le parking Foch
+2025-01-17 05:51:37 - Places libres : 48.64% pour le parking Gambetta
+2025-01-17 05:51:37 - Places libres : 50.54% pour le parking Gare
+2025-01-17 05:51:37 - Places libres : 83.87% pour le parking Triangle
+2025-01-17 05:51:37 - Places libres : 87.39% pour le parking Pitot
+2025-01-17 05:51:37 - Places libres : 98.25% pour le parking Circe
+2025-01-17 05:51:37 - Places libres : 84.3% pour le parking Garcia Lorca
+2025-01-17 05:51:37 - Places libres : 87.14% pour le parking Mosson
+2025-01-17 05:51:37 - Places libres : 95.91% pour le parking Sabines
+2025-01-17 05:51:37 - Places libres : 89.25% pour le parking Sablassou
+2025-01-17 05:51:37 - Places libres : 94.39% pour le parking Saint Jean Le Sec
+2025-01-17 05:51:37 - Places libres : 58.04% pour le parking Euromedecine
+2025-01-17 05:51:37 - Places libres : 90.41% pour le parking Occitanie
+2025-01-17 05:51:37 - Places libres : 84.62% pour le parking Vicarello
+2025-01-17 05:51:37 - Places libres : 100.0% pour le parking Gaumont EST
+2025-01-17 05:51:37 - Places libres : 96.4% pour le parking Gaumont OUEST
+2025-01-17 05:51:37 - Places libres : 39.62% pour le parking Charles de Gaulle
+2025-01-17 05:51:37 - Places libres : 88.12% pour le parking Polygone
+2025-01-17 05:51:37 - Places libres : 34.77% pour le parking Arc de Triomphe
+2025-01-17 05:51:37 - Places libres : 100.0% pour le parking Gaumont-Circe
+
+Il y a en moyenne : 75.68% de places libres pour les parkings de voitures.
+
+
+
+2025-01-17 06:51:37 - Places libres : 25.0% pour la rue Rue Jules Ferry - Gare Saint-Roch
+2025-01-17 06:51:37 - Places libres : 35.0% pour la rue Comédie
+2025-01-17 06:51:37 - Places libres : 75.0% pour la rue Hôtel de Ville
+2025-01-17 06:51:37 - Places libres : 58.33% pour la rue Corum
+2025-01-17 06:51:37 - Places libres : 48.15% pour la rue Place Albert 1er - St Charles
+2025-01-17 06:51:37 - Places libres : 87.5% pour la rue Foch
+2025-01-17 06:51:37 - Places libres : 66.67% pour la rue Halles Castellane
+2025-01-17 06:51:37 - Places libres : 100% pour la rue Observatoire
+2025-01-17 06:51:37 - Places libres : 68.75% pour la rue Rondelet
+2025-01-17 06:51:37 - Places libres : 8.33% pour la rue Plan Cabanes
+2025-01-17 06:51:37 - Places libres : 25.0% pour la rue Boutonnet
+2025-01-17 06:51:37 - Places libres : 37.5% pour la rue Emile Combes
+2025-01-17 06:51:37 - Places libres : 37.5% pour la rue Beaux-Arts
+2025-01-17 06:51:37 - Places libres : 62.5% pour la rue Les Aubes
+2025-01-17 06:51:37 - Places libres : 75.0% pour la rue Antigone centre
+2025-01-17 06:51:37 - Places libres : 87.5% pour la rue Médiathèque Emile Zola
+2025-01-17 06:51:37 - Places libres : 93.75% pour la rue Nombre d Or
+2025-01-17 06:51:37 - Places libres : 43.75% pour la rue Louis Blanc
+2025-01-17 06:51:37 - Places libres : 50.0% pour la rue Gambetta
+2025-01-17 06:51:37 - Places libres : 68.75% pour la rue Port Marianne
+2025-01-17 06:51:37 - Places libres : 50.0% pour la rue Les Arceaux
+2025-01-17 06:51:37 - Places libres : 50.0% pour la rue Cité Mion
+2025-01-17 06:51:37 - Places libres : 50.0% pour la rue Nouveau Saint-Roch
+2025-01-17 06:51:37 - Places libres : 50.0% pour la rue Renouvier
+2025-01-17 06:51:37 - Places libres : 100% pour la rue Odysseum
+2025-01-17 06:51:37 - Places libres : 100% pour la rue Saint-Denis
+2025-01-17 06:51:37 - Places libres : 18.75% pour la rue Richter
+2025-01-17 06:51:37 - Places libres : 62.5% pour la rue Charles Flahault
+2025-01-17 06:51:37 - Places libres : 25.0% pour la rue Voltaire
+2025-01-17 06:51:37 - Places libres : 37.5% pour la rue Prés d Arènes
+2025-01-17 06:51:37 - Places libres : 0.0% pour la rue Garcia Lorca
+2025-01-17 06:51:37 - Places libres : 37.5% pour la rue Vert Bois
+2025-01-17 06:51:37 - Places libres : 62.5% pour la rue Malbosc
+2025-01-17 06:51:37 - Places libres : 81.25% pour la rue Occitanie
+2025-01-17 06:51:37 - Places libres : 41.67% pour la rue FacdesSciences
+2025-01-17 06:51:37 - Places libres : 41.67% pour la rue Fac de Lettres
+2025-01-17 06:51:37 - Places libres : 12.5% pour la rue Aiguelongue
+2025-01-17 06:51:37 - Places libres : 50.0% pour la rue Jeu de Mail des Abbés
+2025-01-17 06:51:37 - Places libres : 50.0% pour la rue Euromédecine
+2025-01-17 06:51:37 - Places libres : 100% pour la rue Marie Caizergues
+2025-01-17 06:51:37 - Places libres : 75.0% pour la rue Sabines
+2025-01-17 06:51:37 - Places libres : 37.5% pour la rue Celleneuve
+2025-01-17 06:51:37 - Places libres : 87.5% pour la rue Jardin de la Lironde
+2025-01-17 06:51:37 - Places libres : 62.5% pour la rue Père Soulas
+2025-01-17 06:51:37 - Places libres : 12.5% pour la rue Place Viala
+2025-01-17 06:51:37 - Places libres : 75.0% pour la rue Hôtel du Département
+2025-01-17 06:51:37 - Places libres : 87.5% pour la rue Tonnelles
+2025-01-17 06:51:37 - Places libres : 12.5% pour la rue Parvis Jules Ferry - Gare Saint-Roch
+2025-01-17 06:51:37 - Places libres : 50.0% pour la rue Pont de Lattes - Gare Saint-Roch
+2025-01-17 06:51:37 - Places libres : 100% pour la rue Deux Ponts - Gare Saint-Roch
+2025-01-17 06:51:37 - Places libres : 75.0% pour la rue Providence - Ovalie
+2025-01-17 06:51:37 - Places libres : 48.53% pour la rue Pérols Etang de l Or
+2025-01-17 06:51:37 - Places libres : 58.33% pour la rue Albert 1er - Cathédrale
+2025-01-17 06:51:37 - Places libres : 0.0% pour la rue Saint-Guilhem - Courreau
+2025-01-17 06:51:37 - Places libres : 100% pour la rue Sud De France
+2025-01-17 06:51:37 - Places libres : 75.0% pour la rue Comedie Baudin
+2025-01-17 06:51:37 - Places libres : 37.5% pour la rue Jean de Beins
+
+Il y a en moyenne : 61.03% de places libres pour les vélos.
+
+2025-01-17 06:51:37 - Places libres : 61.51% pour le parking Antigone
+2025-01-17 06:51:37 - Places libres : 70.59% pour le parking Comedie
+2025-01-17 06:51:37 - Places libres : 72.86% pour le parking Corum
+2025-01-17 06:51:37 - Places libres : 83.25% pour le parking Europa
+2025-01-17 06:51:37 - Places libres : 14.88% pour le parking Foch
+2025-01-17 06:51:37 - Places libres : 49.55% pour le parking Gambetta
+2025-01-17 06:51:37 - Places libres : 50.23% pour le parking Gare
+2025-01-17 06:51:37 - Places libres : 83.64% pour le parking Triangle
+2025-01-17 06:51:37 - Places libres : 87.39% pour le parking Pitot
+2025-01-17 06:51:37 - Places libres : 97.67% pour le parking Circe
+2025-01-17 06:51:37 - Places libres : 83.54% pour le parking Garcia Lorca
+2025-01-17 06:51:37 - Places libres : 84.86% pour le parking Mosson
+2025-01-17 06:51:37 - Places libres : 89.09% pour le parking Sabines
+2025-01-17 06:51:37 - Places libres : 88.98% pour le parking Sablassou
+2025-01-17 06:51:37 - Places libres : 93.68% pour le parking Saint Jean Le Sec
+2025-01-17 06:51:37 - Places libres : 57.65% pour le parking Euromedecine
+2025-01-17 06:51:37 - Places libres : 88.29% pour le parking Occitanie
+2025-01-17 06:51:37 - Places libres : 84.62% pour le parking Vicarello
+2025-01-17 06:51:37 - Places libres : 100.0% pour le parking Gaumont EST
+2025-01-17 06:51:37 - Places libres : 70.8% pour le parking Gaumont OUEST
+2025-01-17 06:51:37 - Places libres : 39.23% pour le parking Charles de Gaulle
+2025-01-17 06:51:37 - Places libres : 87.44% pour le parking Polygone
+2025-01-17 06:51:37 - Places libres : 34.32% pour le parking Arc de Triomphe
+2025-01-17 06:51:37 - Places libres : 99.8% pour le parking Gaumont-Circe
+
+Il y a en moyenne : 73.91% de places libres pour les parkings de voitures.
+
+
+
+2025-01-17 07:51:38 - Places libres : 25.0% pour la rue Rue Jules Ferry - Gare Saint-Roch
+2025-01-17 07:51:38 - Places libres : 35.0% pour la rue Comédie
+2025-01-17 07:51:38 - Places libres : 75.0% pour la rue Hôtel de Ville
+2025-01-17 07:51:38 - Places libres : 58.33% pour la rue Corum
+2025-01-17 07:51:38 - Places libres : 48.15% pour la rue Place Albert 1er - St Charles
+2025-01-17 07:51:38 - Places libres : 87.5% pour la rue Foch
+2025-01-17 07:51:38 - Places libres : 66.67% pour la rue Halles Castellane
+2025-01-17 07:51:38 - Places libres : 88.89% pour la rue Observatoire
+2025-01-17 07:51:38 - Places libres : 68.75% pour la rue Rondelet
+2025-01-17 07:51:38 - Places libres : 8.33% pour la rue Plan Cabanes
+2025-01-17 07:51:38 - Places libres : 25.0% pour la rue Boutonnet
+2025-01-17 07:51:38 - Places libres : 37.5% pour la rue Emile Combes
+2025-01-17 07:51:38 - Places libres : 37.5% pour la rue Beaux-Arts
+2025-01-17 07:51:38 - Places libres : 62.5% pour la rue Les Aubes
+2025-01-17 07:51:38 - Places libres : 75.0% pour la rue Antigone centre
+2025-01-17 07:51:38 - Places libres : 87.5% pour la rue Médiathèque Emile Zola
+2025-01-17 07:51:38 - Places libres : 93.75% pour la rue Nombre d Or
+2025-01-17 07:51:38 - Places libres : 43.75% pour la rue Louis Blanc
+2025-01-17 07:51:38 - Places libres : 62.5% pour la rue Gambetta
+2025-01-17 07:51:38 - Places libres : 68.75% pour la rue Port Marianne
+2025-01-17 07:51:38 - Places libres : 50.0% pour la rue Les Arceaux
+2025-01-17 07:51:38 - Places libres : 50.0% pour la rue Cité Mion
+2025-01-17 07:51:38 - Places libres : 50.0% pour la rue Nouveau Saint-Roch
+2025-01-17 07:51:38 - Places libres : 25.0% pour la rue Renouvier
+2025-01-17 07:51:38 - Places libres : 100% pour la rue Odysseum
+2025-01-17 07:51:38 - Places libres : 100% pour la rue Saint-Denis
+2025-01-17 07:51:38 - Places libres : 18.75% pour la rue Richter
+2025-01-17 07:51:38 - Places libres : 62.5% pour la rue Charles Flahault
+2025-01-17 07:51:38 - Places libres : 25.0% pour la rue Voltaire
+2025-01-17 07:51:38 - Places libres : 25.0% pour la rue Prés d Arènes
+2025-01-17 07:51:38 - Places libres : 0.0% pour la rue Garcia Lorca
+2025-01-17 07:51:38 - Places libres : 37.5% pour la rue Vert Bois
+2025-01-17 07:51:38 - Places libres : 62.5% pour la rue Malbosc
+2025-01-17 07:51:38 - Places libres : 81.25% pour la rue Occitanie
+2025-01-17 07:51:38 - Places libres : 41.67% pour la rue FacdesSciences
+2025-01-17 07:51:38 - Places libres : 41.67% pour la rue Fac de Lettres
+2025-01-17 07:51:38 - Places libres : 12.5% pour la rue Aiguelongue
+2025-01-17 07:51:38 - Places libres : 50.0% pour la rue Jeu de Mail des Abbés
+2025-01-17 07:51:38 - Places libres : 50.0% pour la rue Euromédecine
+2025-01-17 07:51:38 - Places libres : 100% pour la rue Marie Caizergues
+2025-01-17 07:51:38 - Places libres : 75.0% pour la rue Sabines
+2025-01-17 07:51:38 - Places libres : 37.5% pour la rue Celleneuve
+2025-01-17 07:51:38 - Places libres : 87.5% pour la rue Jardin de la Lironde
+2025-01-17 07:51:38 - Places libres : 62.5% pour la rue Père Soulas
+2025-01-17 07:51:38 - Places libres : 12.5% pour la rue Place Viala
+2025-01-17 07:51:38 - Places libres : 75.0% pour la rue Hôtel du Département
+2025-01-17 07:51:38 - Places libres : 87.5% pour la rue Tonnelles
+2025-01-17 07:51:38 - Places libres : 12.5% pour la rue Parvis Jules Ferry - Gare Saint-Roch
+2025-01-17 07:51:38 - Places libres : 50.0% pour la rue Pont de Lattes - Gare Saint-Roch
+2025-01-17 07:51:38 - Places libres : 100% pour la rue Deux Ponts - Gare Saint-Roch
+2025-01-17 07:51:38 - Places libres : 75.0% pour la rue Providence - Ovalie
+2025-01-17 07:51:38 - Places libres : 48.53% pour la rue Pérols Etang de l Or
+2025-01-17 07:51:38 - Places libres : 58.33% pour la rue Albert 1er - Cathédrale
+2025-01-17 07:51:38 - Places libres : 12.5% pour la rue Saint-Guilhem - Courreau
+2025-01-17 07:51:38 - Places libres : 100% pour la rue Sud De France
+2025-01-17 07:51:38 - Places libres : 75.0% pour la rue Comedie Baudin
+2025-01-17 07:51:38 - Places libres : 31.25% pour la rue Jean de Beins
+
+Il y a en moyenne : 60.2% de places libres pour les vélos.
+
+2025-01-17 07:51:38 - Places libres : 62.34% pour le parking Antigone
+2025-01-17 07:51:38 - Places libres : 68.95% pour le parking Comedie
+2025-01-17 07:51:38 - Places libres : 71.02% pour le parking Corum
+2025-01-17 07:51:38 - Places libres : 77.16% pour le parking Europa
+2025-01-17 07:51:38 - Places libres : 14.88% pour le parking Foch
+2025-01-17 07:51:38 - Places libres : 47.27% pour le parking Gambetta
+2025-01-17 07:51:38 - Places libres : 49.92% pour le parking Gare
+2025-01-17 07:51:38 - Places libres : 88.25% pour le parking Triangle
+2025-01-17 07:51:38 - Places libres : 86.88% pour le parking Pitot
+2025-01-17 07:51:38 - Places libres : 92.83% pour le parking Circe
+2025-01-17 07:51:38 - Places libres : 78.48% pour le parking Garcia Lorca
+2025-01-17 07:51:38 - Places libres : 63.71% pour le parking Mosson
+2025-01-17 07:51:38 - Places libres : 73.18% pour le parking Sabines
+2025-01-17 07:51:38 - Places libres : 79.03% pour le parking Sablassou
+2025-01-17 07:51:38 - Places libres : 89.82% pour le parking Saint Jean Le Sec
+2025-01-17 07:51:38 - Places libres : 52.55% pour le parking Euromedecine
+2025-01-17 07:51:38 - Places libres : 71.22% pour le parking Occitanie
+2025-01-17 07:51:38 - Places libres : 86.15% pour le parking Vicarello
+2025-01-17 07:51:38 - Places libres : 94.5% pour le parking Gaumont EST
+2025-01-17 07:51:38 - Places libres : 39.2% pour le parking Gaumont OUEST
+2025-01-17 07:51:38 - Places libres : 34.23% pour le parking Charles de Gaulle
+2025-01-17 07:51:38 - Places libres : 85.61% pour le parking Polygone
+2025-01-17 07:51:38 - Places libres : 34.55% pour le parking Arc de Triomphe
+2025-01-17 07:51:38 - Places libres : 93.6% pour le parking Gaumont-Circe
+
+Il y a en moyenne : 68.14% de places libres pour les parkings de voitures.
+
+
+
+2025-01-17 08:51:39 - Places libres : 33.33% pour la rue Rue Jules Ferry - Gare Saint-Roch
+2025-01-17 08:51:39 - Places libres : 35.0% pour la rue Comédie
+2025-01-17 08:51:39 - Places libres : 75.0% pour la rue Hôtel de Ville
+2025-01-17 08:51:39 - Places libres : 66.67% pour la rue Corum
+2025-01-17 08:51:39 - Places libres : 48.15% pour la rue Place Albert 1er - St Charles
+2025-01-17 08:51:39 - Places libres : 37.5% pour la rue Foch
+2025-01-17 08:51:39 - Places libres : 50.0% pour la rue Halles Castellane
+2025-01-17 08:51:39 - Places libres : 66.67% pour la rue Observatoire
+2025-01-17 08:51:39 - Places libres : 68.75% pour la rue Rondelet
+2025-01-17 08:51:39 - Places libres : 25.0% pour la rue Plan Cabanes
+2025-01-17 08:51:39 - Places libres : 25.0% pour la rue Boutonnet
+2025-01-17 08:51:39 - Places libres : 37.5% pour la rue Emile Combes
+2025-01-17 08:51:39 - Places libres : 37.5% pour la rue Beaux-Arts
+2025-01-17 08:51:39 - Places libres : 62.5% pour la rue Les Aubes
+2025-01-17 08:51:39 - Places libres : 66.67% pour la rue Antigone centre
+2025-01-17 08:51:39 - Places libres : 68.75% pour la rue Médiathèque Emile Zola
+2025-01-17 08:51:39 - Places libres : 62.5% pour la rue Nombre d Or
+2025-01-17 08:51:39 - Places libres : 37.5% pour la rue Louis Blanc
+2025-01-17 08:51:39 - Places libres : 50.0% pour la rue Gambetta
+2025-01-17 08:51:39 - Places libres : 75.0% pour la rue Port Marianne
+2025-01-17 08:51:39 - Places libres : 50.0% pour la rue Les Arceaux
+2025-01-17 08:51:39 - Places libres : 50.0% pour la rue Cité Mion
+2025-01-17 08:51:39 - Places libres : 62.5% pour la rue Nouveau Saint-Roch
+2025-01-17 08:51:39 - Places libres : 50.0% pour la rue Renouvier
+2025-01-17 08:51:39 - Places libres : 100% pour la rue Odysseum
+2025-01-17 08:51:39 - Places libres : 100% pour la rue Saint-Denis
+2025-01-17 08:51:39 - Places libres : 18.75% pour la rue Richter
+2025-01-17 08:51:39 - Places libres : 62.5% pour la rue Charles Flahault
+2025-01-17 08:51:39 - Places libres : 37.5% pour la rue Voltaire
+2025-01-17 08:51:39 - Places libres : 25.0% pour la rue Prés d Arènes
+2025-01-17 08:51:39 - Places libres : 0.0% pour la rue Garcia Lorca
+2025-01-17 08:51:39 - Places libres : 43.75% pour la rue Vert Bois
+2025-01-17 08:51:39 - Places libres : 62.5% pour la rue Malbosc
+2025-01-17 08:51:39 - Places libres : 75.0% pour la rue Occitanie
+2025-01-17 08:51:39 - Places libres : 45.83% pour la rue FacdesSciences
+2025-01-17 08:51:39 - Places libres : 41.67% pour la rue Fac de Lettres
+2025-01-17 08:51:39 - Places libres : 12.5% pour la rue Aiguelongue
+2025-01-17 08:51:39 - Places libres : 50.0% pour la rue Jeu de Mail des Abbés
+2025-01-17 08:51:39 - Places libres : 50.0% pour la rue Euromédecine
+2025-01-17 08:51:39 - Places libres : 50.0% pour la rue Marie Caizergues
+2025-01-17 08:51:39 - Places libres : 75.0% pour la rue Sabines
+2025-01-17 08:51:39 - Places libres : 50.0% pour la rue Celleneuve
+2025-01-17 08:51:39 - Places libres : 100% pour la rue Jardin de la Lironde
+2025-01-17 08:51:39 - Places libres : 62.5% pour la rue Père Soulas
+2025-01-17 08:51:39 - Places libres : 25.0% pour la rue Place Viala
+2025-01-17 08:51:39 - Places libres : 75.0% pour la rue Hôtel du Département
+2025-01-17 08:51:39 - Places libres : 87.5% pour la rue Tonnelles
+2025-01-17 08:51:39 - Places libres : 25.0% pour la rue Parvis Jules Ferry - Gare Saint-Roch
+2025-01-17 08:51:39 - Places libres : 58.33% pour la rue Pont de Lattes - Gare Saint-Roch
+2025-01-17 08:51:39 - Places libres : 100% pour la rue Deux Ponts - Gare Saint-Roch
+2025-01-17 08:51:39 - Places libres : 75.0% pour la rue Providence - Ovalie
+2025-01-17 08:51:39 - Places libres : 48.53% pour la rue Pérols Etang de l Or
+2025-01-17 08:51:39 - Places libres : 58.33% pour la rue Albert 1er - Cathédrale
+2025-01-17 08:51:39 - Places libres : 50.0% pour la rue Saint-Guilhem - Courreau
+2025-01-17 08:51:39 - Places libres : 100% pour la rue Sud De France
+2025-01-17 08:51:39 - Places libres : 75.0% pour la rue Comedie Baudin
+2025-01-17 08:51:39 - Places libres : 31.25% pour la rue Jean de Beins
+
+Il y a en moyenne : 58.56% de places libres pour les vélos.
+
+2025-01-17 08:51:39 - Places libres : 57.74% pour le parking Antigone
+2025-01-17 08:51:39 - Places libres : 65.8% pour le parking Comedie
+2025-01-17 08:51:39 - Places libres : 65.92% pour le parking Corum
+2025-01-17 08:51:39 - Places libres : 62.44% pour le parking Europa
+2025-01-17 08:51:39 - Places libres : 14.88% pour le parking Foch
+2025-01-17 08:51:39 - Places libres : 43.64% pour le parking Gambetta
+2025-01-17 08:51:39 - Places libres : 47.78% pour le parking Gare
+2025-01-17 08:51:39 - Places libres : 80.41% pour le parking Triangle
+2025-01-17 08:51:39 - Places libres : 72.91% pour le parking Pitot
+2025-01-17 08:51:39 - Places libres : 82.17% pour le parking Circe
+2025-01-17 08:51:39 - Places libres : 68.35% pour le parking Garcia Lorca
+2025-01-17 08:51:39 - Places libres : 46.29% pour le parking Mosson
+2025-01-17 08:51:39 - Places libres : 45.91% pour le parking Sabines
+2025-01-17 08:51:39 - Places libres : 65.86% pour le parking Sablassou
+2025-01-17 08:51:39 - Places libres : 80.0% pour le parking Saint Jean Le Sec
+2025-01-17 08:51:39 - Places libres : 40.78% pour le parking Euromedecine
+2025-01-17 08:51:39 - Places libres : 48.13% pour le parking Occitanie
+2025-01-17 08:51:39 - Places libres : 83.08% pour le parking Vicarello
+2025-01-17 08:51:39 - Places libres : 88.99% pour le parking Gaumont EST
+2025-01-17 08:51:39 - Places libres : 20.8% pour le parking Gaumont OUEST
+2025-01-17 08:51:39 - Places libres : 27.69% pour le parking Charles de Gaulle
+2025-01-17 08:51:39 - Places libres : 81.06% pour le parking Polygone
+2025-01-17 08:51:39 - Places libres : 30.23% pour le parking Arc de Triomphe
+2025-01-17 08:51:39 - Places libres : 75.0% pour le parking Gaumont-Circe
+
+Il y a en moyenne : 58.16% de places libres pour les parkings de voitures.
+
+
+
+2025-01-17 09:51:43 - Places libres : 33.33% pour la rue Rue Jules Ferry - Gare Saint-Roch
+2025-01-17 09:51:43 - Places libres : 35.0% pour la rue Comédie
+2025-01-17 09:51:43 - Places libres : 75.0% pour la rue Hôtel de Ville
+2025-01-17 09:51:43 - Places libres : 66.67% pour la rue Corum
+2025-01-17 09:51:43 - Places libres : 48.15% pour la rue Place Albert 1er - St Charles
+2025-01-17 09:51:43 - Places libres : 50.0% pour la rue Foch
+2025-01-17 09:51:43 - Places libres : 50.0% pour la rue Halles Castellane
+2025-01-17 09:51:43 - Places libres : 66.67% pour la rue Observatoire
+2025-01-17 09:51:43 - Places libres : 68.75% pour la rue Rondelet
+2025-01-17 09:51:43 - Places libres : 25.0% pour la rue Plan Cabanes
+2025-01-17 09:51:43 - Places libres : 25.0% pour la rue Boutonnet
+2025-01-17 09:51:43 - Places libres : 37.5% pour la rue Emile Combes
+2025-01-17 09:51:43 - Places libres : 37.5% pour la rue Beaux-Arts
+2025-01-17 09:51:43 - Places libres : 62.5% pour la rue Les Aubes
+2025-01-17 09:51:43 - Places libres : 58.33% pour la rue Antigone centre
+2025-01-17 09:51:43 - Places libres : 62.5% pour la rue Médiathèque Emile Zola
+2025-01-17 09:51:43 - Places libres : 62.5% pour la rue Nombre d Or
+2025-01-17 09:51:43 - Places libres : 37.5% pour la rue Louis Blanc
+2025-01-17 09:51:43 - Places libres : 50.0% pour la rue Gambetta
+2025-01-17 09:51:43 - Places libres : 75.0% pour la rue Port Marianne
+2025-01-17 09:51:43 - Places libres : 50.0% pour la rue Les Arceaux
+2025-01-17 09:51:43 - Places libres : 50.0% pour la rue Cité Mion
+2025-01-17 09:51:43 - Places libres : 62.5% pour la rue Nouveau Saint-Roch
+2025-01-17 09:51:43 - Places libres : 50.0% pour la rue Renouvier
+2025-01-17 09:51:43 - Places libres : 100% pour la rue Odysseum
+2025-01-17 09:51:43 - Places libres : 100% pour la rue Saint-Denis
+2025-01-17 09:51:43 - Places libres : 62.5% pour la rue Richter
+2025-01-17 09:51:43 - Places libres : 62.5% pour la rue Charles Flahault
+2025-01-17 09:51:43 - Places libres : 37.5% pour la rue Voltaire
+2025-01-17 09:51:43 - Places libres : 25.0% pour la rue Prés d Arènes
+2025-01-17 09:51:43 - Places libres : 0.0% pour la rue Garcia Lorca
+2025-01-17 09:51:43 - Places libres : 43.75% pour la rue Vert Bois
+2025-01-17 09:51:43 - Places libres : 50.0% pour la rue Malbosc
+2025-01-17 09:51:43 - Places libres : 78.12% pour la rue Occitanie
+2025-01-17 09:51:43 - Places libres : 37.5% pour la rue FacdesSciences
+2025-01-17 09:51:43 - Places libres : 33.33% pour la rue Fac de Lettres
+2025-01-17 09:51:43 - Places libres : 12.5% pour la rue Aiguelongue
+2025-01-17 09:51:43 - Places libres : 62.5% pour la rue Jeu de Mail des Abbés
+2025-01-17 09:51:43 - Places libres : 50.0% pour la rue Euromédecine
+2025-01-17 09:51:43 - Places libres : 50.0% pour la rue Marie Caizergues
+2025-01-17 09:51:43 - Places libres : 75.0% pour la rue Sabines
+2025-01-17 09:51:43 - Places libres : 50.0% pour la rue Celleneuve
+2025-01-17 09:51:43 - Places libres : 100% pour la rue Jardin de la Lironde
+2025-01-17 09:51:43 - Places libres : 62.5% pour la rue Père Soulas
+2025-01-17 09:51:43 - Places libres : 12.5% pour la rue Place Viala
+2025-01-17 09:51:43 - Places libres : 87.5% pour la rue Hôtel du Département
+2025-01-17 09:51:43 - Places libres : 87.5% pour la rue Tonnelles
+2025-01-17 09:51:43 - Places libres : 25.0% pour la rue Parvis Jules Ferry - Gare Saint-Roch
+2025-01-17 09:51:43 - Places libres : 58.33% pour la rue Pont de Lattes - Gare Saint-Roch
+2025-01-17 09:51:43 - Places libres : 100% pour la rue Deux Ponts - Gare Saint-Roch
+2025-01-17 09:51:43 - Places libres : 75.0% pour la rue Providence - Ovalie
+2025-01-17 09:51:43 - Places libres : 48.53% pour la rue Pérols Etang de l Or
+2025-01-17 09:51:43 - Places libres : 66.67% pour la rue Albert 1er - Cathédrale
+2025-01-17 09:51:43 - Places libres : 37.5% pour la rue Saint-Guilhem - Courreau
+2025-01-17 09:51:43 - Places libres : 87.5% pour la rue Sud De France
+2025-01-17 09:51:43 - Places libres : 75.0% pour la rue Comedie Baudin
+2025-01-17 09:51:43 - Places libres : 31.25% pour la rue Jean de Beins
+
+Il y a en moyenne : 56.45% de places libres pour les vélos.
+
+2025-01-17 09:51:43 - Places libres : 56.49% pour le parking Antigone
+2025-01-17 09:51:43 - Places libres : 59.37% pour le parking Comedie
+2025-01-17 09:51:43 - Places libres : 57.55% pour le parking Corum
+2025-01-17 09:51:43 - Places libres : 50.93% pour le parking Europa
+2025-01-17 09:51:43 - Places libres : 14.88% pour le parking Foch
+2025-01-17 09:51:43 - Places libres : 37.73% pour le parking Gambetta
+2025-01-17 09:51:43 - Places libres : 45.79% pour le parking Gare
+2025-01-17 09:51:43 - Places libres : 60.37% pour le parking Triangle
+2025-01-17 09:51:43 - Places libres : 61.84% pour le parking Pitot
+2025-01-17 09:51:43 - Places libres : 75.17% pour le parking Circe
+2025-01-17 09:51:43 - Places libres : 62.78% pour le parking Garcia Lorca
+2025-01-17 09:51:43 - Places libres : 40.0% pour le parking Mosson
+2025-01-17 09:51:43 - Places libres : 20.0% pour le parking Sabines
+2025-01-17 09:51:43 - Places libres : 55.65% pour le parking Sablassou
+2025-01-17 09:51:43 - Places libres : 76.84% pour le parking Saint Jean Le Sec
+2025-01-17 09:51:43 - Places libres : 32.16% pour le parking Euromedecine
+2025-01-17 09:51:43 - Places libres : 35.93% pour le parking Occitanie
+2025-01-17 09:51:43 - Places libres : 38.46% pour le parking Vicarello
+2025-01-17 09:51:43 - Places libres : 89.91% pour le parking Gaumont EST
+2025-01-17 09:51:43 - Places libres : 14.0% pour le parking Gaumont OUEST
+2025-01-17 09:51:43 - Places libres : 21.15% pour le parking Charles de Gaulle
+2025-01-17 09:51:43 - Places libres : 70.8% pour le parking Polygone
+2025-01-17 09:51:43 - Places libres : 20.91% pour le parking Arc de Triomphe
+2025-01-17 09:51:43 - Places libres : 65.2% pour le parking Gaumont-Circe
+
+Il y a en moyenne : 48.5% de places libres pour les parkings de voitures.
+
+
+
+2025-01-17 10:51:45 - Places libres : 33.33% pour la rue Rue Jules Ferry - Gare Saint-Roch
+2025-01-17 10:51:45 - Places libres : 35.0% pour la rue Comédie
+2025-01-17 10:51:45 - Places libres : 75.0% pour la rue Hôtel de Ville
+2025-01-17 10:51:45 - Places libres : 66.67% pour la rue Corum
+2025-01-17 10:51:45 - Places libres : 37.04% pour la rue Place Albert 1er - St Charles
+2025-01-17 10:51:45 - Places libres : 50.0% pour la rue Foch
+2025-01-17 10:51:45 - Places libres : 50.0% pour la rue Halles Castellane
+2025-01-17 10:51:45 - Places libres : 55.56% pour la rue Observatoire
+2025-01-17 10:51:45 - Places libres : 68.75% pour la rue Rondelet
+2025-01-17 10:51:45 - Places libres : 41.67% pour la rue Plan Cabanes
+2025-01-17 10:51:45 - Places libres : 25.0% pour la rue Boutonnet
+2025-01-17 10:51:45 - Places libres : 37.5% pour la rue Emile Combes
+2025-01-17 10:51:45 - Places libres : 37.5% pour la rue Beaux-Arts
+2025-01-17 10:51:45 - Places libres : 75.0% pour la rue Les Aubes
+2025-01-17 10:51:45 - Places libres : 58.33% pour la rue Antigone centre
+2025-01-17 10:51:45 - Places libres : 62.5% pour la rue Médiathèque Emile Zola
+2025-01-17 10:51:45 - Places libres : 62.5% pour la rue Nombre d Or
+2025-01-17 10:51:45 - Places libres : 37.5% pour la rue Louis Blanc
+2025-01-17 10:51:45 - Places libres : 50.0% pour la rue Gambetta
+2025-01-17 10:51:45 - Places libres : 75.0% pour la rue Port Marianne
+2025-01-17 10:51:45 - Places libres : 50.0% pour la rue Les Arceaux
+2025-01-17 10:51:45 - Places libres : 50.0% pour la rue Cité Mion
+2025-01-17 10:51:45 - Places libres : 62.5% pour la rue Nouveau Saint-Roch
+2025-01-17 10:51:45 - Places libres : 62.5% pour la rue Renouvier
+2025-01-17 10:51:45 - Places libres : 100% pour la rue Odysseum
+2025-01-17 10:51:45 - Places libres : 100% pour la rue Saint-Denis
+2025-01-17 10:51:45 - Places libres : 62.5% pour la rue Richter
+2025-01-17 10:51:45 - Places libres : 62.5% pour la rue Charles Flahault
+2025-01-17 10:51:45 - Places libres : 37.5% pour la rue Voltaire
+2025-01-17 10:51:45 - Places libres : 25.0% pour la rue Prés d Arènes
+2025-01-17 10:51:45 - Places libres : 0.0% pour la rue Garcia Lorca
+2025-01-17 10:51:45 - Places libres : 50.0% pour la rue Vert Bois
+2025-01-17 10:51:45 - Places libres : 50.0% pour la rue Malbosc
+2025-01-17 10:51:45 - Places libres : 78.12% pour la rue Occitanie
+2025-01-17 10:51:45 - Places libres : 37.5% pour la rue FacdesSciences
+2025-01-17 10:51:45 - Places libres : 33.33% pour la rue Fac de Lettres
+2025-01-17 10:51:45 - Places libres : 12.5% pour la rue Aiguelongue
+2025-01-17 10:51:45 - Places libres : 62.5% pour la rue Jeu de Mail des Abbés
+2025-01-17 10:51:45 - Places libres : 50.0% pour la rue Euromédecine
+2025-01-17 10:51:45 - Places libres : 50.0% pour la rue Marie Caizergues
+2025-01-17 10:51:45 - Places libres : 75.0% pour la rue Sabines
+2025-01-17 10:51:45 - Places libres : 37.5% pour la rue Celleneuve
+2025-01-17 10:51:45 - Places libres : 87.5% pour la rue Jardin de la Lironde
+2025-01-17 10:51:45 - Places libres : 75.0% pour la rue Père Soulas
+2025-01-17 10:51:45 - Places libres : 12.5% pour la rue Place Viala
+2025-01-17 10:51:45 - Places libres : 87.5% pour la rue Hôtel du Département
+2025-01-17 10:51:45 - Places libres : 87.5% pour la rue Tonnelles
+2025-01-17 10:51:45 - Places libres : 25.0% pour la rue Parvis Jules Ferry - Gare Saint-Roch
+2025-01-17 10:51:45 - Places libres : 58.33% pour la rue Pont de Lattes - Gare Saint-Roch
+2025-01-17 10:51:45 - Places libres : 100% pour la rue Deux Ponts - Gare Saint-Roch
+2025-01-17 10:51:45 - Places libres : 75.0% pour la rue Providence - Ovalie
+2025-01-17 10:51:45 - Places libres : 48.53% pour la rue Pérols Etang de l Or
+2025-01-17 10:51:45 - Places libres : 66.67% pour la rue Albert 1er - Cathédrale
+2025-01-17 10:51:45 - Places libres : 37.5% pour la rue Saint-Guilhem - Courreau
+2025-01-17 10:51:45 - Places libres : 87.5% pour la rue Sud De France
+2025-01-17 10:51:45 - Places libres : 75.0% pour la rue Comedie Baudin
+2025-01-17 10:51:45 - Places libres : 31.25% pour la rue Jean de Beins
+
+Il y a en moyenne : 54.3% de places libres pour les vélos.
+
+2025-01-17 10:51:45 - Places libres : 53.56% pour le parking Antigone
+2025-01-17 10:51:45 - Places libres : 54.58% pour le parking Comedie
+2025-01-17 10:51:45 - Places libres : 54.08% pour le parking Corum
+2025-01-17 10:51:45 - Places libres : 50.93% pour le parking Europa
+2025-01-17 10:51:45 - Places libres : 14.88% pour le parking Foch
+2025-01-17 10:51:45 - Places libres : 32.05% pour le parking Gambetta
+2025-01-17 10:51:45 - Places libres : 43.8% pour le parking Gare
+2025-01-17 10:51:45 - Places libres : 51.61% pour le parking Triangle
+2025-01-17 10:51:45 - Places libres : 55.71% pour le parking Pitot
+2025-01-17 10:51:45 - Places libres : 73.75% pour le parking Circe
+2025-01-17 10:51:45 - Places libres : 60.0% pour le parking Garcia Lorca
+2025-01-17 10:51:45 - Places libres : 37.71% pour le parking Mosson
+2025-01-17 10:51:45 - Places libres : 11.82% pour le parking Sabines
+2025-01-17 10:51:45 - Places libres : 53.49% pour le parking Sablassou
+2025-01-17 10:51:45 - Places libres : 74.74% pour le parking Saint Jean Le Sec
+2025-01-17 10:51:45 - Places libres : 27.06% pour le parking Euromedecine
+2025-01-17 10:51:45 - Places libres : 29.27% pour le parking Occitanie
+2025-01-17 10:51:45 - Places libres : 32.31% pour le parking Vicarello
+2025-01-17 10:51:45 - Places libres : 88.99% pour le parking Gaumont EST
+2025-01-17 10:51:45 - Places libres : 4.8% pour le parking Gaumont OUEST
+2025-01-17 10:51:45 - Places libres : 22.31% pour le parking Charles de Gaulle
+2025-01-17 10:51:45 - Places libres : 54.79% pour le parking Polygone
+2025-01-17 10:51:45 - Places libres : 12.05% pour le parking Arc de Triomphe
+2025-01-17 10:51:45 - Places libres : 64.0% pour le parking Gaumont-Circe
+
+Il y a en moyenne : 44.1% de places libres pour les parkings de voitures.
+
+
+
+2025-01-17 11:51:51 - Places libres : 50.0% pour la rue Rue Jules Ferry - Gare Saint-Roch
+2025-01-17 11:51:51 - Places libres : 35.0% pour la rue Comédie
+2025-01-17 11:51:51 - Places libres : 75.0% pour la rue Hôtel de Ville
+2025-01-17 11:51:51 - Places libres : 66.67% pour la rue Corum
+2025-01-17 11:51:51 - Places libres : 37.04% pour la rue Place Albert 1er - St Charles
+2025-01-17 11:51:51 - Places libres : 50.0% pour la rue Foch
+2025-01-17 11:51:51 - Places libres : 58.33% pour la rue Halles Castellane
+2025-01-17 11:51:51 - Places libres : 55.56% pour la rue Observatoire
+2025-01-17 11:51:51 - Places libres : 68.75% pour la rue Rondelet
+2025-01-17 11:51:51 - Places libres : 50.0% pour la rue Plan Cabanes
+2025-01-17 11:51:51 - Places libres : 25.0% pour la rue Boutonnet
+2025-01-17 11:51:51 - Places libres : 37.5% pour la rue Emile Combes
+2025-01-17 11:51:51 - Places libres : 37.5% pour la rue Beaux-Arts
+2025-01-17 11:51:51 - Places libres : 75.0% pour la rue Les Aubes
+2025-01-17 11:51:51 - Places libres : 58.33% pour la rue Antigone centre
+2025-01-17 11:51:51 - Places libres : 62.5% pour la rue Médiathèque Emile Zola
+2025-01-17 11:51:51 - Places libres : 56.25% pour la rue Nombre d Or
+2025-01-17 11:51:51 - Places libres : 31.25% pour la rue Louis Blanc
+2025-01-17 11:51:51 - Places libres : 50.0% pour la rue Gambetta
+2025-01-17 11:51:51 - Places libres : 81.25% pour la rue Port Marianne
+2025-01-17 11:51:51 - Places libres : 50.0% pour la rue Les Arceaux
+2025-01-17 11:51:51 - Places libres : 50.0% pour la rue Cité Mion
+2025-01-17 11:51:51 - Places libres : 62.5% pour la rue Nouveau Saint-Roch
+2025-01-17 11:51:51 - Places libres : 62.5% pour la rue Renouvier
+2025-01-17 11:51:51 - Places libres : 100% pour la rue Odysseum
+2025-01-17 11:51:51 - Places libres : 100% pour la rue Saint-Denis
+2025-01-17 11:51:51 - Places libres : 62.5% pour la rue Richter
+2025-01-17 11:51:51 - Places libres : 62.5% pour la rue Charles Flahault
+2025-01-17 11:51:51 - Places libres : 37.5% pour la rue Voltaire
+2025-01-17 11:51:51 - Places libres : 25.0% pour la rue Prés d Arènes
+2025-01-17 11:51:51 - Places libres : 50.0% pour la rue Garcia Lorca
+2025-01-17 11:51:51 - Places libres : 56.25% pour la rue Vert Bois
+2025-01-17 11:51:51 - Places libres : 50.0% pour la rue Malbosc
+2025-01-17 11:51:51 - Places libres : 78.12% pour la rue Occitanie
+2025-01-17 11:51:51 - Places libres : 41.67% pour la rue FacdesSciences
+2025-01-17 11:51:51 - Places libres : 41.67% pour la rue Fac de Lettres
+2025-01-17 11:51:51 - Places libres : 12.5% pour la rue Aiguelongue
+2025-01-17 11:51:51 - Places libres : 62.5% pour la rue Jeu de Mail des Abbés
+2025-01-17 11:51:51 - Places libres : 50.0% pour la rue Euromédecine
+2025-01-17 11:51:51 - Places libres : 50.0% pour la rue Marie Caizergues
+2025-01-17 11:51:51 - Places libres : 75.0% pour la rue Sabines
+2025-01-17 11:51:51 - Places libres : 37.5% pour la rue Celleneuve
+2025-01-17 11:51:51 - Places libres : 87.5% pour la rue Jardin de la Lironde
+2025-01-17 11:51:51 - Places libres : 75.0% pour la rue Père Soulas
+2025-01-17 11:51:51 - Places libres : 12.5% pour la rue Place Viala
+2025-01-17 11:51:51 - Places libres : 75.0% pour la rue Hôtel du Département
+2025-01-17 11:51:51 - Places libres : 87.5% pour la rue Tonnelles
+2025-01-17 11:51:51 - Places libres : 25.0% pour la rue Parvis Jules Ferry - Gare Saint-Roch
+2025-01-17 11:51:51 - Places libres : 58.33% pour la rue Pont de Lattes - Gare Saint-Roch
+2025-01-17 11:51:51 - Places libres : 100% pour la rue Deux Ponts - Gare Saint-Roch
+2025-01-17 11:51:51 - Places libres : 75.0% pour la rue Providence - Ovalie
+2025-01-17 11:51:51 - Places libres : 48.53% pour la rue Pérols Etang de l Or
+2025-01-17 11:51:51 - Places libres : 66.67% pour la rue Albert 1er - Cathédrale
+2025-01-17 11:51:51 - Places libres : 37.5% pour la rue Saint-Guilhem - Courreau
+2025-01-17 11:51:51 - Places libres : 100% pour la rue Sud De France
+2025-01-17 11:51:51 - Places libres : 75.0% pour la rue Comedie Baudin
+2025-01-17 11:51:51 - Places libres : 31.25% pour la rue Jean de Beins
+
+Il y a en moyenne : 54.53% de places libres pour les vélos.
+
+2025-01-17 11:51:51 - Places libres : 52.72% pour le parking Antigone
+2025-01-17 11:51:51 - Places libres : 50.34% pour le parking Comedie
+2025-01-17 11:51:51 - Places libres : 48.57% pour le parking Corum
+2025-01-17 11:51:51 - Places libres : 50.93% pour le parking Europa
+2025-01-17 11:51:51 - Places libres : 14.88% pour le parking Foch
+2025-01-17 11:51:51 - Places libres : 31.82% pour le parking Gambetta
+2025-01-17 11:51:51 - Places libres : 42.88% pour le parking Gare
+2025-01-17 11:51:51 - Places libres : 50.0% pour le parking Triangle
+2025-01-17 11:51:51 - Places libres : 55.54% pour le parking Pitot
+2025-01-17 11:51:51 - Places libres : 71.08% pour le parking Circe
+2025-01-17 11:51:51 - Places libres : 59.24% pour le parking Garcia Lorca
+2025-01-17 11:51:51 - Places libres : 36.57% pour le parking Mosson
+2025-01-17 11:51:51 - Places libres : 11.82% pour le parking Sabines
+2025-01-17 11:51:51 - Places libres : 52.69% pour le parking Sablassou
+2025-01-17 11:51:51 - Places libres : 72.28% pour le parking Saint Jean Le Sec
+2025-01-17 11:51:51 - Places libres : 26.67% pour le parking Euromedecine
+2025-01-17 11:51:51 - Places libres : 24.72% pour le parking Occitanie
+2025-01-17 11:51:51 - Places libres : 35.38% pour le parking Vicarello
+2025-01-17 11:51:51 - Places libres : 86.24% pour le parking Gaumont EST
+2025-01-17 11:51:51 - Places libres : 1.6% pour le parking Gaumont OUEST
+2025-01-17 11:51:51 - Places libres : 23.46% pour le parking Charles de Gaulle
+2025-01-17 11:51:51 - Places libres : 50.34% pour le parking Polygone
+2025-01-17 11:51:51 - Places libres : 7.95% pour le parking Arc de Triomphe
+2025-01-17 11:51:51 - Places libres : 64.4% pour le parking Gaumont-Circe
+
+Il y a en moyenne : 42.59% de places libres pour les parkings de voitures.
+
+
+
+2025-01-17 12:51:51 - Places libres : 50.0% pour la rue Rue Jules Ferry - Gare Saint-Roch
+2025-01-17 12:51:51 - Places libres : 35.0% pour la rue Comédie
+2025-01-17 12:51:51 - Places libres : 81.25% pour la rue Hôtel de Ville
+2025-01-17 12:51:51 - Places libres : 66.67% pour la rue Corum
+2025-01-17 12:51:51 - Places libres : 29.63% pour la rue Place Albert 1er - St Charles
+2025-01-17 12:51:51 - Places libres : 87.5% pour la rue Foch
+2025-01-17 12:51:51 - Places libres : 58.33% pour la rue Halles Castellane
+2025-01-17 12:51:51 - Places libres : 44.44% pour la rue Observatoire
+2025-01-17 12:51:51 - Places libres : 68.75% pour la rue Rondelet
+2025-01-17 12:51:51 - Places libres : 58.33% pour la rue Plan Cabanes
+2025-01-17 12:51:51 - Places libres : 16.67% pour la rue Boutonnet
+2025-01-17 12:51:51 - Places libres : 37.5% pour la rue Emile Combes
+2025-01-17 12:51:51 - Places libres : 37.5% pour la rue Beaux-Arts
+2025-01-17 12:51:51 - Places libres : 75.0% pour la rue Les Aubes
+2025-01-17 12:51:51 - Places libres : 58.33% pour la rue Antigone centre
+2025-01-17 12:51:51 - Places libres : 56.25% pour la rue Médiathèque Emile Zola
+2025-01-17 12:51:51 - Places libres : 56.25% pour la rue Nombre d Or
+2025-01-17 12:51:51 - Places libres : 25.0% pour la rue Louis Blanc
+2025-01-17 12:51:51 - Places libres : 25.0% pour la rue Gambetta
+2025-01-17 12:51:51 - Places libres : 81.25% pour la rue Port Marianne
+2025-01-17 12:51:51 - Places libres : 62.5% pour la rue Les Arceaux
+2025-01-17 12:51:51 - Places libres : 50.0% pour la rue Cité Mion
+2025-01-17 12:51:51 - Places libres : 62.5% pour la rue Nouveau Saint-Roch
+2025-01-17 12:51:51 - Places libres : 87.5% pour la rue Renouvier
+2025-01-17 12:51:51 - Places libres : 100% pour la rue Odysseum
+2025-01-17 12:51:51 - Places libres : 100% pour la rue Saint-Denis
+2025-01-17 12:51:51 - Places libres : 56.25% pour la rue Richter
+2025-01-17 12:51:51 - Places libres : 50.0% pour la rue Charles Flahault
+2025-01-17 12:51:51 - Places libres : 25.0% pour la rue Voltaire
+2025-01-17 12:51:51 - Places libres : 50.0% pour la rue Prés d Arènes
+2025-01-17 12:51:51 - Places libres : 37.5% pour la rue Garcia Lorca
+2025-01-17 12:51:51 - Places libres : 18.75% pour la rue Vert Bois
+2025-01-17 12:51:51 - Places libres : 50.0% pour la rue Malbosc
+2025-01-17 12:51:51 - Places libres : 78.12% pour la rue Occitanie
+2025-01-17 12:51:51 - Places libres : 45.83% pour la rue FacdesSciences
+2025-01-17 12:51:51 - Places libres : 33.33% pour la rue Fac de Lettres
+2025-01-17 12:51:51 - Places libres : 12.5% pour la rue Aiguelongue
+2025-01-17 12:51:51 - Places libres : 62.5% pour la rue Jeu de Mail des Abbés
+2025-01-17 12:51:51 - Places libres : 50.0% pour la rue Euromédecine
+2025-01-17 12:51:51 - Places libres : 50.0% pour la rue Marie Caizergues
+2025-01-17 12:51:51 - Places libres : 75.0% pour la rue Sabines
+2025-01-17 12:51:51 - Places libres : 37.5% pour la rue Celleneuve
+2025-01-17 12:51:51 - Places libres : 87.5% pour la rue Jardin de la Lironde
+2025-01-17 12:51:51 - Places libres : 75.0% pour la rue Père Soulas
+2025-01-17 12:51:51 - Places libres : 12.5% pour la rue Place Viala
+2025-01-17 12:51:51 - Places libres : 62.5% pour la rue Hôtel du Département
+2025-01-17 12:51:51 - Places libres : 87.5% pour la rue Tonnelles
+2025-01-17 12:51:51 - Places libres : 0.0% pour la rue Parvis Jules Ferry - Gare Saint-Roch
+2025-01-17 12:51:51 - Places libres : 58.33% pour la rue Pont de Lattes - Gare Saint-Roch
+2025-01-17 12:51:51 - Places libres : 100% pour la rue Deux Ponts - Gare Saint-Roch
+2025-01-17 12:51:51 - Places libres : 75.0% pour la rue Providence - Ovalie
+2025-01-17 12:51:51 - Places libres : 48.53% pour la rue Pérols Etang de l Or
+2025-01-17 12:51:51 - Places libres : 66.67% pour la rue Albert 1er - Cathédrale
+2025-01-17 12:51:51 - Places libres : 50.0% pour la rue Saint-Guilhem - Courreau
+2025-01-17 12:51:51 - Places libres : 87.5% pour la rue Sud De France
+2025-01-17 12:51:51 - Places libres : 62.5% pour la rue Comedie Baudin
+2025-01-17 12:51:51 - Places libres : 31.25% pour la rue Jean de Beins
+
+Il y a en moyenne : 53.06% de places libres pour les vélos.
+
+2025-01-17 12:51:51 - Places libres : 51.05% pour le parking Antigone
+2025-01-17 12:51:51 - Places libres : 42.95% pour le parking Comedie
+2025-01-17 12:51:51 - Places libres : 44.69% pour le parking Corum
+2025-01-17 12:51:51 - Places libres : 50.59% pour le parking Europa
+2025-01-17 12:51:51 - Places libres : 14.88% pour le parking Foch
+2025-01-17 12:51:51 - Places libres : 30.23% pour le parking Gambetta
+2025-01-17 12:51:51 - Places libres : 38.13% pour le parking Gare
+2025-01-17 12:51:51 - Places libres : 46.08% pour le parking Triangle
+2025-01-17 12:51:51 - Places libres : 53.66% pour le parking Pitot
+2025-01-17 12:51:51 - Places libres : 69.25% pour le parking Circe
+2025-01-17 12:51:51 - Places libres : 60.0% pour le parking Garcia Lorca
+2025-01-17 12:51:51 - Places libres : 36.57% pour le parking Mosson
+2025-01-17 12:51:51 - Places libres : 10.45% pour le parking Sabines
+2025-01-17 12:51:51 - Places libres : 52.15% pour le parking Sablassou
+2025-01-17 12:51:51 - Places libres : 71.58% pour le parking Saint Jean Le Sec
+2025-01-17 12:51:51 - Places libres : 27.45% pour le parking Euromedecine
+2025-01-17 12:51:51 - Places libres : 24.88% pour le parking Occitanie
+2025-01-17 12:51:51 - Places libres : 33.85% pour le parking Vicarello
+2025-01-17 12:51:51 - Places libres : 86.24% pour le parking Gaumont EST
+2025-01-17 12:51:51 - Places libres : 0.4% pour le parking Gaumont OUEST
+2025-01-17 12:51:51 - Places libres : 22.31% pour le parking Charles de Gaulle
+2025-01-17 12:51:51 - Places libres : 46.26% pour le parking Polygone
+2025-01-17 12:51:51 - Places libres : 3.41% pour le parking Arc de Triomphe
+2025-01-17 12:51:51 - Places libres : 64.4% pour le parking Gaumont-Circe
+
+Il y a en moyenne : 40.89% de places libres pour les parkings de voitures.
+
+
+
+2025-01-17 13:51:55 - Places libres : 50.0% pour la rue Rue Jules Ferry - Gare Saint-Roch
+2025-01-17 13:51:55 - Places libres : 40.0% pour la rue Comédie
+2025-01-17 13:51:55 - Places libres : 81.25% pour la rue Hôtel de Ville
+2025-01-17 13:51:55 - Places libres : 66.67% pour la rue Corum
+2025-01-17 13:51:55 - Places libres : 22.22% pour la rue Place Albert 1er - St Charles
+2025-01-17 13:51:55 - Places libres : 75.0% pour la rue Foch
+2025-01-17 13:51:55 - Places libres : 58.33% pour la rue Halles Castellane
+2025-01-17 13:51:55 - Places libres : 33.33% pour la rue Observatoire
+2025-01-17 13:51:55 - Places libres : 68.75% pour la rue Rondelet
+2025-01-17 13:51:55 - Places libres : 58.33% pour la rue Plan Cabanes
+2025-01-17 13:51:55 - Places libres : 25.0% pour la rue Boutonnet
+2025-01-17 13:51:55 - Places libres : 37.5% pour la rue Emile Combes
+2025-01-17 13:51:55 - Places libres : 37.5% pour la rue Beaux-Arts
+2025-01-17 13:51:55 - Places libres : 75.0% pour la rue Les Aubes
+2025-01-17 13:51:55 - Places libres : 58.33% pour la rue Antigone centre
+2025-01-17 13:51:55 - Places libres : 56.25% pour la rue Médiathèque Emile Zola
+2025-01-17 13:51:55 - Places libres : 56.25% pour la rue Nombre d Or
+2025-01-17 13:51:55 - Places libres : 31.25% pour la rue Louis Blanc
+2025-01-17 13:51:55 - Places libres : 25.0% pour la rue Gambetta
+2025-01-17 13:51:55 - Places libres : 81.25% pour la rue Port Marianne
+2025-01-17 13:51:55 - Places libres : 50.0% pour la rue Les Arceaux
+2025-01-17 13:51:55 - Places libres : 50.0% pour la rue Cité Mion
+2025-01-17 13:51:55 - Places libres : 62.5% pour la rue Nouveau Saint-Roch
+2025-01-17 13:51:55 - Places libres : 87.5% pour la rue Renouvier
+2025-01-17 13:51:55 - Places libres : 100% pour la rue Odysseum
+2025-01-17 13:51:55 - Places libres : 100% pour la rue Saint-Denis
+2025-01-17 13:51:55 - Places libres : 43.75% pour la rue Richter
+2025-01-17 13:51:55 - Places libres : 50.0% pour la rue Charles Flahault
+2025-01-17 13:51:55 - Places libres : 25.0% pour la rue Voltaire
+2025-01-17 13:51:55 - Places libres : 50.0% pour la rue Prés d Arènes
+2025-01-17 13:51:55 - Places libres : 25.0% pour la rue Garcia Lorca
+2025-01-17 13:51:55 - Places libres : 18.75% pour la rue Vert Bois
+2025-01-17 13:51:55 - Places libres : 50.0% pour la rue Malbosc
+2025-01-17 13:51:55 - Places libres : 81.25% pour la rue Occitanie
+2025-01-17 13:51:55 - Places libres : 41.67% pour la rue FacdesSciences
+2025-01-17 13:51:55 - Places libres : 33.33% pour la rue Fac de Lettres
+2025-01-17 13:51:55 - Places libres : 12.5% pour la rue Aiguelongue
+2025-01-17 13:51:55 - Places libres : 62.5% pour la rue Jeu de Mail des Abbés
+2025-01-17 13:51:55 - Places libres : 50.0% pour la rue Euromédecine
+2025-01-17 13:51:55 - Places libres : 50.0% pour la rue Marie Caizergues
+2025-01-17 13:51:55 - Places libres : 50.0% pour la rue Sabines
+2025-01-17 13:51:55 - Places libres : 50.0% pour la rue Celleneuve
+2025-01-17 13:51:55 - Places libres : 87.5% pour la rue Jardin de la Lironde
+2025-01-17 13:51:55 - Places libres : 87.5% pour la rue Père Soulas
+2025-01-17 13:51:55 - Places libres : 12.5% pour la rue Place Viala
+2025-01-17 13:51:55 - Places libres : 50.0% pour la rue Hôtel du Département
+2025-01-17 13:51:55 - Places libres : 100% pour la rue Tonnelles
+2025-01-17 13:51:55 - Places libres : 12.5% pour la rue Parvis Jules Ferry - Gare Saint-Roch
+2025-01-17 13:51:55 - Places libres : 50.0% pour la rue Pont de Lattes - Gare Saint-Roch
+2025-01-17 13:51:55 - Places libres : 100% pour la rue Deux Ponts - Gare Saint-Roch
+2025-01-17 13:51:55 - Places libres : 50.0% pour la rue Providence - Ovalie
+2025-01-17 13:51:55 - Places libres : 52.94% pour la rue Pérols Etang de l Or
+2025-01-17 13:51:55 - Places libres : 58.33% pour la rue Albert 1er - Cathédrale
+2025-01-17 13:51:55 - Places libres : 37.5% pour la rue Saint-Guilhem - Courreau
+2025-01-17 13:51:55 - Places libres : 87.5% pour la rue Sud De France
+2025-01-17 13:51:55 - Places libres : 62.5% pour la rue Comedie Baudin
+2025-01-17 13:51:55 - Places libres : 31.25% pour la rue Jean de Beins
+
+Il y a en moyenne : 51.43% de places libres pour les vélos.
+
+2025-01-17 13:51:55 - Places libres : 50.21% pour le parking Antigone
+2025-01-17 13:51:55 - Places libres : 37.48% pour le parking Comedie
+2025-01-17 13:51:55 - Places libres : 40.82% pour le parking Corum
+2025-01-17 13:51:55 - Places libres : 50.25% pour le parking Europa
+2025-01-17 13:51:55 - Places libres : 14.88% pour le parking Foch
+2025-01-17 13:51:55 - Places libres : 29.55% pour le parking Gambetta
+2025-01-17 13:51:55 - Places libres : 38.28% pour le parking Gare
+2025-01-17 13:51:55 - Places libres : 47.24% pour le parking Triangle
+2025-01-17 13:51:55 - Places libres : 57.24% pour le parking Pitot
+2025-01-17 13:51:55 - Places libres : 69.75% pour le parking Circe
+2025-01-17 13:51:55 - Places libres : 60.76% pour le parking Garcia Lorca
+2025-01-17 13:51:55 - Places libres : 36.86% pour le parking Mosson
+2025-01-17 13:51:55 - Places libres : 14.55% pour le parking Sabines
+2025-01-17 13:51:55 - Places libres : 51.08% pour le parking Sablassou
+2025-01-17 13:51:55 - Places libres : 71.58% pour le parking Saint Jean Le Sec
+2025-01-17 13:51:55 - Places libres : 27.45% pour le parking Euromedecine
+2025-01-17 13:51:55 - Places libres : 24.55% pour le parking Occitanie
+2025-01-17 13:51:55 - Places libres : 44.62% pour le parking Vicarello
+2025-01-17 13:51:55 - Places libres : 80.73% pour le parking Gaumont EST
+2025-01-17 13:51:55 - Places libres : 3.6% pour le parking Gaumont OUEST
+2025-01-17 13:51:55 - Places libres : 20.77% pour le parking Charles de Gaulle
+2025-01-17 13:51:55 - Places libres : 43.38% pour le parking Polygone
+2025-01-17 13:51:55 - Places libres : 5.91% pour le parking Arc de Triomphe
+2025-01-17 13:51:55 - Places libres : 61.4% pour le parking Gaumont-Circe
+
+Il y a en moyenne : 40.96% de places libres pour les parkings de voitures.
+
+
+
+2025-01-17 14:51:55 - Places libres : 50.0% pour la rue Rue Jules Ferry - Gare Saint-Roch
+2025-01-17 14:51:55 - Places libres : 40.0% pour la rue Comédie
+2025-01-17 14:51:55 - Places libres : 81.25% pour la rue Hôtel de Ville
+2025-01-17 14:51:55 - Places libres : 66.67% pour la rue Corum
+2025-01-17 14:51:55 - Places libres : 22.22% pour la rue Place Albert 1er - St Charles
+2025-01-17 14:51:55 - Places libres : 62.5% pour la rue Foch
+2025-01-17 14:51:55 - Places libres : 50.0% pour la rue Halles Castellane
+2025-01-17 14:51:55 - Places libres : 12.5% pour la rue Observatoire
+2025-01-17 14:51:55 - Places libres : 68.75% pour la rue Rondelet
+2025-01-17 14:51:55 - Places libres : 58.33% pour la rue Plan Cabanes
+2025-01-17 14:51:55 - Places libres : 25.0% pour la rue Boutonnet
+2025-01-17 14:51:55 - Places libres : 37.5% pour la rue Emile Combes
+2025-01-17 14:51:55 - Places libres : 43.75% pour la rue Beaux-Arts
+2025-01-17 14:51:55 - Places libres : 75.0% pour la rue Les Aubes
+2025-01-17 14:51:55 - Places libres : 58.33% pour la rue Antigone centre
+2025-01-17 14:51:55 - Places libres : 50.0% pour la rue Médiathèque Emile Zola
+2025-01-17 14:51:55 - Places libres : 50.0% pour la rue Nombre d Or
+2025-01-17 14:51:55 - Places libres : 31.25% pour la rue Louis Blanc
+2025-01-17 14:51:55 - Places libres : 50.0% pour la rue Gambetta
+2025-01-17 14:51:55 - Places libres : 75.0% pour la rue Port Marianne
+2025-01-17 14:51:55 - Places libres : 50.0% pour la rue Les Arceaux
+2025-01-17 14:51:55 - Places libres : 50.0% pour la rue Cité Mion
+2025-01-17 14:51:55 - Places libres : 75.0% pour la rue Nouveau Saint-Roch
+2025-01-17 14:51:55 - Places libres : 87.5% pour la rue Renouvier
+2025-01-17 14:51:55 - Places libres : 100% pour la rue Odysseum
+2025-01-17 14:51:55 - Places libres : 100% pour la rue Saint-Denis
+2025-01-17 14:51:55 - Places libres : 43.75% pour la rue Richter
+2025-01-17 14:51:55 - Places libres : 87.5% pour la rue Charles Flahault
+2025-01-17 14:51:55 - Places libres : 25.0% pour la rue Voltaire
+2025-01-17 14:51:55 - Places libres : 50.0% pour la rue Prés d Arènes
+2025-01-17 14:51:55 - Places libres : 25.0% pour la rue Garcia Lorca
+2025-01-17 14:51:55 - Places libres : 25.0% pour la rue Vert Bois
+2025-01-17 14:51:55 - Places libres : 50.0% pour la rue Malbosc
+2025-01-17 14:51:55 - Places libres : 81.25% pour la rue Occitanie
+2025-01-17 14:51:55 - Places libres : 41.67% pour la rue FacdesSciences
+2025-01-17 14:51:55 - Places libres : 33.33% pour la rue Fac de Lettres
+2025-01-17 14:51:55 - Places libres : 12.5% pour la rue Aiguelongue
+2025-01-17 14:51:55 - Places libres : 62.5% pour la rue Jeu de Mail des Abbés
+2025-01-17 14:51:55 - Places libres : 50.0% pour la rue Euromédecine
+2025-01-17 14:51:55 - Places libres : 50.0% pour la rue Marie Caizergues
+2025-01-17 14:51:55 - Places libres : 50.0% pour la rue Sabines
+2025-01-17 14:51:55 - Places libres : 50.0% pour la rue Celleneuve
+2025-01-17 14:51:55 - Places libres : 87.5% pour la rue Jardin de la Lironde
+2025-01-17 14:51:55 - Places libres : 75.0% pour la rue Père Soulas
+2025-01-17 14:51:55 - Places libres : 0.0% pour la rue Place Viala
+2025-01-17 14:51:55 - Places libres : 50.0% pour la rue Hôtel du Département
+2025-01-17 14:51:55 - Places libres : 100% pour la rue Tonnelles
+2025-01-17 14:51:55 - Places libres : 12.5% pour la rue Parvis Jules Ferry - Gare Saint-Roch
+2025-01-17 14:51:55 - Places libres : 50.0% pour la rue Pont de Lattes - Gare Saint-Roch
+2025-01-17 14:51:55 - Places libres : 100% pour la rue Deux Ponts - Gare Saint-Roch
+2025-01-17 14:51:55 - Places libres : 50.0% pour la rue Providence - Ovalie
+2025-01-17 14:51:55 - Places libres : 63.24% pour la rue Pérols Etang de l Or
+2025-01-17 14:51:55 - Places libres : 58.33% pour la rue Albert 1er - Cathédrale
+2025-01-17 14:51:55 - Places libres : 50.0% pour la rue Saint-Guilhem - Courreau
+2025-01-17 14:51:55 - Places libres : 87.5% pour la rue Sud De France
+2025-01-17 14:51:55 - Places libres : 62.5% pour la rue Comedie Baudin
+2025-01-17 14:51:55 - Places libres : 31.25% pour la rue Jean de Beins
+
+Il y a en moyenne : 51.78% de places libres pour les vélos.
+
+2025-01-17 14:51:55 - Places libres : 51.46% pour le parking Antigone
+2025-01-17 14:51:55 - Places libres : 37.62% pour le parking Comedie
+2025-01-17 14:51:55 - Places libres : 44.08% pour le parking Corum
+2025-01-17 14:51:55 - Places libres : 49.41% pour le parking Europa
+2025-01-17 14:51:55 - Places libres : 14.88% pour le parking Foch
+2025-01-17 14:51:55 - Places libres : 29.55% pour le parking Gambetta
+2025-01-17 14:51:55 - Places libres : 41.19% pour le parking Gare
+2025-01-17 14:51:55 - Places libres : 47.7% pour le parking Triangle
+2025-01-17 14:51:55 - Places libres : 58.43% pour le parking Pitot
+2025-01-17 14:51:55 - Places libres : 69.58% pour le parking Circe
+2025-01-17 14:51:55 - Places libres : 64.05% pour le parking Garcia Lorca
+2025-01-17 14:51:55 - Places libres : 33.43% pour le parking Mosson
+2025-01-17 14:51:55 - Places libres : 14.09% pour le parking Sabines
+2025-01-17 14:51:55 - Places libres : 52.42% pour le parking Sablassou
+2025-01-17 14:51:55 - Places libres : 71.58% pour le parking Saint Jean Le Sec
+2025-01-17 14:51:55 - Places libres : 25.49% pour le parking Euromedecine
+2025-01-17 14:51:55 - Places libres : 23.25% pour le parking Occitanie
+2025-01-17 14:51:55 - Places libres : 60.0% pour le parking Vicarello
+2025-01-17 14:51:55 - Places libres : 77.98% pour le parking Gaumont EST
+2025-01-17 14:51:55 - Places libres : 8.4% pour le parking Gaumont OUEST
+2025-01-17 14:51:55 - Places libres : 21.92% pour le parking Charles de Gaulle
+2025-01-17 14:51:55 - Places libres : 43.64% pour le parking Polygone
+2025-01-17 14:51:55 - Places libres : 5.45% pour le parking Arc de Triomphe
+2025-01-17 14:51:55 - Places libres : 57.8% pour le parking Gaumont-Circe
+
+Il y a en moyenne : 41.81% de places libres pour les parkings de voitures.
+
+
+
+2025-01-17 15:51:55 - Places libres : 50.0% pour la rue Rue Jules Ferry - Gare Saint-Roch
+2025-01-17 15:51:55 - Places libres : 40.0% pour la rue Comédie
+2025-01-17 15:51:55 - Places libres : 81.25% pour la rue Hôtel de Ville
+2025-01-17 15:51:55 - Places libres : 83.33% pour la rue Corum
+2025-01-17 15:51:55 - Places libres : 51.85% pour la rue Place Albert 1er - St Charles
+2025-01-17 15:51:55 - Places libres : 62.5% pour la rue Foch
+2025-01-17 15:51:55 - Places libres : 50.0% pour la rue Halles Castellane
+2025-01-17 15:51:55 - Places libres : 12.5% pour la rue Observatoire
+2025-01-17 15:51:55 - Places libres : 68.75% pour la rue Rondelet
+2025-01-17 15:51:55 - Places libres : 66.67% pour la rue Plan Cabanes
+2025-01-17 15:51:55 - Places libres : 25.0% pour la rue Boutonnet
+2025-01-17 15:51:55 - Places libres : 37.5% pour la rue Emile Combes
+2025-01-17 15:51:55 - Places libres : 43.75% pour la rue Beaux-Arts
+2025-01-17 15:51:55 - Places libres : 62.5% pour la rue Les Aubes
+2025-01-17 15:51:55 - Places libres : 58.33% pour la rue Antigone centre
+2025-01-17 15:51:55 - Places libres : 50.0% pour la rue Médiathèque Emile Zola
+2025-01-17 15:51:55 - Places libres : 50.0% pour la rue Nombre d Or
+2025-01-17 15:51:55 - Places libres : 25.0% pour la rue Louis Blanc
+2025-01-17 15:51:55 - Places libres : 62.5% pour la rue Gambetta
+2025-01-17 15:51:55 - Places libres : 68.75% pour la rue Port Marianne
+2025-01-17 15:51:55 - Places libres : 50.0% pour la rue Les Arceaux
+2025-01-17 15:51:55 - Places libres : 50.0% pour la rue Cité Mion
+2025-01-17 15:51:55 - Places libres : 75.0% pour la rue Nouveau Saint-Roch
+2025-01-17 15:51:55 - Places libres : 87.5% pour la rue Renouvier
+2025-01-17 15:51:55 - Places libres : 100% pour la rue Odysseum
+2025-01-17 15:51:55 - Places libres : 100% pour la rue Saint-Denis
+2025-01-17 15:51:55 - Places libres : 43.75% pour la rue Richter
+2025-01-17 15:51:55 - Places libres : 87.5% pour la rue Charles Flahault
+2025-01-17 15:51:55 - Places libres : 50.0% pour la rue Voltaire
+2025-01-17 15:51:55 - Places libres : 50.0% pour la rue Prés d Arènes
+2025-01-17 15:51:55 - Places libres : 25.0% pour la rue Garcia Lorca
+2025-01-17 15:51:55 - Places libres : 31.25% pour la rue Vert Bois
+2025-01-17 15:51:55 - Places libres : 50.0% pour la rue Malbosc
+2025-01-17 15:51:55 - Places libres : 84.38% pour la rue Occitanie
+2025-01-17 15:51:55 - Places libres : 41.67% pour la rue FacdesSciences
+2025-01-17 15:51:55 - Places libres : 25.0% pour la rue Fac de Lettres
+2025-01-17 15:51:55 - Places libres : 0.0% pour la rue Aiguelongue
+2025-01-17 15:51:55 - Places libres : 62.5% pour la rue Jeu de Mail des Abbés
+2025-01-17 15:51:55 - Places libres : 50.0% pour la rue Euromédecine
+2025-01-17 15:51:55 - Places libres : 50.0% pour la rue Marie Caizergues
+2025-01-17 15:51:55 - Places libres : 50.0% pour la rue Sabines
+2025-01-17 15:51:55 - Places libres : 50.0% pour la rue Celleneuve
+2025-01-17 15:51:55 - Places libres : 87.5% pour la rue Jardin de la Lironde
+2025-01-17 15:51:55 - Places libres : 75.0% pour la rue Père Soulas
+2025-01-17 15:51:55 - Places libres : 0.0% pour la rue Place Viala
+2025-01-17 15:51:55 - Places libres : 50.0% pour la rue Hôtel du Département
+2025-01-17 15:51:55 - Places libres : 100% pour la rue Tonnelles
+2025-01-17 15:51:55 - Places libres : 12.5% pour la rue Parvis Jules Ferry - Gare Saint-Roch
+2025-01-17 15:51:55 - Places libres : 58.33% pour la rue Pont de Lattes - Gare Saint-Roch
+2025-01-17 15:51:55 - Places libres : 100% pour la rue Deux Ponts - Gare Saint-Roch
+2025-01-17 15:51:55 - Places libres : 50.0% pour la rue Providence - Ovalie
+2025-01-17 15:51:55 - Places libres : 66.18% pour la rue Pérols Etang de l Or
+2025-01-17 15:51:55 - Places libres : 58.33% pour la rue Albert 1er - Cathédrale
+2025-01-17 15:51:55 - Places libres : 37.5% pour la rue Saint-Guilhem - Courreau
+2025-01-17 15:51:55 - Places libres : 87.5% pour la rue Sud De France
+2025-01-17 15:51:55 - Places libres : 62.5% pour la rue Comedie Baudin
+2025-01-17 15:51:55 - Places libres : 31.25% pour la rue Jean de Beins
+
+Il y a en moyenne : 52.72% de places libres pour les vélos.
+
+2025-01-17 15:51:55 - Places libres : 53.56% pour le parking Antigone
+2025-01-17 15:51:55 - Places libres : 41.72% pour le parking Comedie
+2025-01-17 15:51:55 - Places libres : 47.35% pour le parking Corum
+2025-01-17 15:51:55 - Places libres : 53.47% pour le parking Europa
+2025-01-17 15:51:55 - Places libres : 14.88% pour le parking Foch
+2025-01-17 15:51:55 - Places libres : 32.5% pour le parking Gambetta
+2025-01-17 15:51:55 - Places libres : 41.65% pour le parking Gare
+2025-01-17 15:51:55 - Places libres : 53.23% pour le parking Triangle
+2025-01-17 15:51:55 - Places libres : 60.82% pour le parking Pitot
+2025-01-17 15:51:55 - Places libres : 70.42% pour le parking Circe
+2025-01-17 15:51:55 - Places libres : 65.06% pour le parking Garcia Lorca
+2025-01-17 15:51:55 - Places libres : 34.0% pour le parking Mosson
+2025-01-17 15:51:55 - Places libres : 16.36% pour le parking Sabines
+2025-01-17 15:51:55 - Places libres : 53.23% pour le parking Sablassou
+2025-01-17 15:51:55 - Places libres : 73.33% pour le parking Saint Jean Le Sec
+2025-01-17 15:51:55 - Places libres : 28.63% pour le parking Euromedecine
+2025-01-17 15:51:55 - Places libres : 28.78% pour le parking Occitanie
+2025-01-17 15:51:55 - Places libres : 52.31% pour le parking Vicarello
+2025-01-17 15:51:55 - Places libres : 82.57% pour le parking Gaumont EST
+2025-01-17 15:51:55 - Places libres : 10.4% pour le parking Gaumont OUEST
+2025-01-17 15:51:55 - Places libres : 22.69% pour le parking Charles de Gaulle
+2025-01-17 15:51:55 - Places libres : 42.96% pour le parking Polygone
+2025-01-17 15:51:55 - Places libres : 10.23% pour le parking Arc de Triomphe
+2025-01-17 15:51:55 - Places libres : 59.6% pour le parking Gaumont-Circe
+
+Il y a en moyenne : 43.74% de places libres pour les parkings de voitures.
+
+
+
+2025-01-17 16:51:56 - Places libres : 50.0% pour la rue Rue Jules Ferry - Gare Saint-Roch
+2025-01-17 16:51:56 - Places libres : 40.0% pour la rue Comédie
+2025-01-17 16:51:56 - Places libres : 87.5% pour la rue Hôtel de Ville
+2025-01-17 16:51:56 - Places libres : 83.33% pour la rue Corum
+2025-01-17 16:51:56 - Places libres : 55.56% pour la rue Place Albert 1er - St Charles
+2025-01-17 16:51:56 - Places libres : 62.5% pour la rue Foch
+2025-01-17 16:51:56 - Places libres : 50.0% pour la rue Halles Castellane
+2025-01-17 16:51:56 - Places libres : 0.0% pour la rue Observatoire
+2025-01-17 16:51:56 - Places libres : 68.75% pour la rue Rondelet
+2025-01-17 16:51:56 - Places libres : 58.33% pour la rue Plan Cabanes
+2025-01-17 16:51:56 - Places libres : 16.67% pour la rue Boutonnet
+2025-01-17 16:51:56 - Places libres : 37.5% pour la rue Emile Combes
+2025-01-17 16:51:56 - Places libres : 50.0% pour la rue Beaux-Arts
+2025-01-17 16:51:56 - Places libres : 50.0% pour la rue Les Aubes
+2025-01-17 16:51:56 - Places libres : 58.33% pour la rue Antigone centre
+2025-01-17 16:51:56 - Places libres : 68.75% pour la rue Médiathèque Emile Zola
+2025-01-17 16:51:56 - Places libres : 50.0% pour la rue Nombre d Or
+2025-01-17 16:51:56 - Places libres : 25.0% pour la rue Louis Blanc
+2025-01-17 16:51:56 - Places libres : 75.0% pour la rue Gambetta
+2025-01-17 16:51:56 - Places libres : 81.25% pour la rue Port Marianne
+2025-01-17 16:51:56 - Places libres : 50.0% pour la rue Les Arceaux
+2025-01-17 16:51:56 - Places libres : 50.0% pour la rue Cité Mion
+2025-01-17 16:51:56 - Places libres : 75.0% pour la rue Nouveau Saint-Roch
+2025-01-17 16:51:56 - Places libres : 100% pour la rue Renouvier
+2025-01-17 16:51:56 - Places libres : 100% pour la rue Odysseum
+2025-01-17 16:51:56 - Places libres : 100% pour la rue Saint-Denis
+2025-01-17 16:51:56 - Places libres : 43.75% pour la rue Richter
+2025-01-17 16:51:56 - Places libres : 75.0% pour la rue Charles Flahault
+2025-01-17 16:51:56 - Places libres : 37.5% pour la rue Voltaire
+2025-01-17 16:51:56 - Places libres : 50.0% pour la rue Prés d Arènes
+2025-01-17 16:51:56 - Places libres : 25.0% pour la rue Garcia Lorca
+2025-01-17 16:51:56 - Places libres : 31.25% pour la rue Vert Bois
+2025-01-17 16:51:56 - Places libres : 50.0% pour la rue Malbosc
+2025-01-17 16:51:56 - Places libres : 81.25% pour la rue Occitanie
+2025-01-17 16:51:56 - Places libres : 45.83% pour la rue FacdesSciences
+2025-01-17 16:51:56 - Places libres : 25.0% pour la rue Fac de Lettres
+2025-01-17 16:51:56 - Places libres : 0.0% pour la rue Aiguelongue
+2025-01-17 16:51:56 - Places libres : 62.5% pour la rue Jeu de Mail des Abbés
+2025-01-17 16:51:56 - Places libres : 50.0% pour la rue Euromédecine
+2025-01-17 16:51:56 - Places libres : 50.0% pour la rue Marie Caizergues
+2025-01-17 16:51:56 - Places libres : 50.0% pour la rue Sabines
+2025-01-17 16:51:56 - Places libres : 50.0% pour la rue Celleneuve
+2025-01-17 16:51:56 - Places libres : 87.5% pour la rue Jardin de la Lironde
+2025-01-17 16:51:56 - Places libres : 75.0% pour la rue Père Soulas
+2025-01-17 16:51:56 - Places libres : 25.0% pour la rue Place Viala
+2025-01-17 16:51:56 - Places libres : 62.5% pour la rue Hôtel du Département
+2025-01-17 16:51:56 - Places libres : 100% pour la rue Tonnelles
+2025-01-17 16:51:56 - Places libres : 50.0% pour la rue Parvis Jules Ferry - Gare Saint-Roch
+2025-01-17 16:51:56 - Places libres : 58.33% pour la rue Pont de Lattes - Gare Saint-Roch
+2025-01-17 16:51:56 - Places libres : 100% pour la rue Deux Ponts - Gare Saint-Roch
+2025-01-17 16:51:56 - Places libres : 50.0% pour la rue Providence - Ovalie
+2025-01-17 16:51:56 - Places libres : 61.76% pour la rue Pérols Etang de l Or
+2025-01-17 16:51:56 - Places libres : 66.67% pour la rue Albert 1er - Cathédrale
+2025-01-17 16:51:56 - Places libres : 25.0% pour la rue Saint-Guilhem - Courreau
+2025-01-17 16:51:56 - Places libres : 87.5% pour la rue Sud De France
+2025-01-17 16:51:56 - Places libres : 50.0% pour la rue Comedie Baudin
+2025-01-17 16:51:56 - Places libres : 31.25% pour la rue Jean de Beins
+
+Il y a en moyenne : 53.95% de places libres pour les vélos.
+
+2025-01-17 16:51:56 - Places libres : 56.07% pour le parking Antigone
+2025-01-17 16:51:56 - Places libres : 44.6% pour le parking Comedie
+2025-01-17 16:51:56 - Places libres : 51.84% pour le parking Corum
+2025-01-17 16:51:56 - Places libres : 61.08% pour le parking Europa
+2025-01-17 16:51:56 - Places libres : 14.88% pour le parking Foch
+2025-01-17 16:51:56 - Places libres : 38.64% pour le parking Gambetta
+2025-01-17 16:51:56 - Places libres : 41.04% pour le parking Gare
+2025-01-17 16:51:56 - Places libres : 55.07% pour le parking Triangle
+2025-01-17 16:51:56 - Places libres : 63.71% pour le parking Pitot
+2025-01-17 16:51:56 - Places libres : 74.58% pour le parking Circe
+2025-01-17 16:51:56 - Places libres : 67.59% pour le parking Garcia Lorca
+2025-01-17 16:51:56 - Places libres : 40.86% pour le parking Mosson
+2025-01-17 16:51:56 - Places libres : 30.45% pour le parking Sabines
+2025-01-17 16:51:56 - Places libres : 57.53% pour le parking Sablassou
+2025-01-17 16:51:56 - Places libres : 76.14% pour le parking Saint Jean Le Sec
+2025-01-17 16:51:56 - Places libres : 32.16% pour le parking Euromedecine
+2025-01-17 16:51:56 - Places libres : 40.98% pour le parking Occitanie
+2025-01-17 16:51:56 - Places libres : 49.23% pour le parking Vicarello
+2025-01-17 16:51:56 - Places libres : 83.49% pour le parking Gaumont EST
+2025-01-17 16:51:56 - Places libres : 19.2% pour le parking Gaumont OUEST
+2025-01-17 16:51:56 - Places libres : 21.92% pour le parking Charles de Gaulle
+2025-01-17 16:51:56 - Places libres : 48.4% pour le parking Polygone
+2025-01-17 16:51:56 - Places libres : 19.32% pour le parking Arc de Triomphe
+2025-01-17 16:51:56 - Places libres : 67.8% pour le parking Gaumont-Circe
+
+Il y a en moyenne : 48.19% de places libres pour les parkings de voitures.
+
+
+
+2025-01-17 17:51:56 - Places libres : 50.0% pour la rue Rue Jules Ferry - Gare Saint-Roch
+2025-01-17 17:51:56 - Places libres : 45.0% pour la rue Comédie
+2025-01-17 17:51:56 - Places libres : 87.5% pour la rue Hôtel de Ville
+2025-01-17 17:51:56 - Places libres : 75.0% pour la rue Corum
+2025-01-17 17:51:56 - Places libres : 59.26% pour la rue Place Albert 1er - St Charles
+2025-01-17 17:51:56 - Places libres : 62.5% pour la rue Foch
+2025-01-17 17:51:56 - Places libres : 50.0% pour la rue Halles Castellane
+2025-01-17 17:51:56 - Places libres : 62.5% pour la rue Observatoire
+2025-01-17 17:51:56 - Places libres : 68.75% pour la rue Rondelet
+2025-01-17 17:51:56 - Places libres : 50.0% pour la rue Plan Cabanes
+2025-01-17 17:51:56 - Places libres : 16.67% pour la rue Boutonnet
+2025-01-17 17:51:56 - Places libres : 37.5% pour la rue Emile Combes
+2025-01-17 17:51:56 - Places libres : 43.75% pour la rue Beaux-Arts
+2025-01-17 17:51:56 - Places libres : 50.0% pour la rue Les Aubes
+2025-01-17 17:51:56 - Places libres : 58.33% pour la rue Antigone centre
+2025-01-17 17:51:56 - Places libres : 68.75% pour la rue Médiathèque Emile Zola
+2025-01-17 17:51:56 - Places libres : 50.0% pour la rue Nombre d Or
+2025-01-17 17:51:56 - Places libres : 31.25% pour la rue Louis Blanc
+2025-01-17 17:51:56 - Places libres : 75.0% pour la rue Gambetta
+2025-01-17 17:51:56 - Places libres : 81.25% pour la rue Port Marianne
+2025-01-17 17:51:56 - Places libres : 62.5% pour la rue Les Arceaux
+2025-01-17 17:51:56 - Places libres : 50.0% pour la rue Cité Mion
+2025-01-17 17:51:56 - Places libres : 75.0% pour la rue Nouveau Saint-Roch
+2025-01-17 17:51:56 - Places libres : 62.5% pour la rue Renouvier
+2025-01-17 17:51:56 - Places libres : 100% pour la rue Odysseum
+2025-01-17 17:51:56 - Places libres : 100% pour la rue Saint-Denis
+2025-01-17 17:51:56 - Places libres : 43.75% pour la rue Richter
+2025-01-17 17:51:56 - Places libres : 75.0% pour la rue Charles Flahault
+2025-01-17 17:51:56 - Places libres : 37.5% pour la rue Voltaire
+2025-01-17 17:51:56 - Places libres : 50.0% pour la rue Prés d Arènes
+2025-01-17 17:51:56 - Places libres : 25.0% pour la rue Garcia Lorca
+2025-01-17 17:51:56 - Places libres : 37.5% pour la rue Vert Bois
+2025-01-17 17:51:56 - Places libres : 50.0% pour la rue Malbosc
+2025-01-17 17:51:56 - Places libres : 87.5% pour la rue Occitanie
+2025-01-17 17:51:56 - Places libres : 45.83% pour la rue FacdesSciences
+2025-01-17 17:51:56 - Places libres : 16.67% pour la rue Fac de Lettres
+2025-01-17 17:51:56 - Places libres : 0.0% pour la rue Aiguelongue
+2025-01-17 17:51:56 - Places libres : 62.5% pour la rue Jeu de Mail des Abbés
+2025-01-17 17:51:56 - Places libres : 50.0% pour la rue Euromédecine
+2025-01-17 17:51:56 - Places libres : 50.0% pour la rue Marie Caizergues
+2025-01-17 17:51:56 - Places libres : 50.0% pour la rue Sabines
+2025-01-17 17:51:56 - Places libres : 50.0% pour la rue Celleneuve
+2025-01-17 17:51:56 - Places libres : 87.5% pour la rue Jardin de la Lironde
+2025-01-17 17:51:56 - Places libres : 50.0% pour la rue Père Soulas
+2025-01-17 17:51:56 - Places libres : 25.0% pour la rue Place Viala
+2025-01-17 17:51:56 - Places libres : 62.5% pour la rue Hôtel du Département
+2025-01-17 17:51:56 - Places libres : 87.5% pour la rue Tonnelles
+2025-01-17 17:51:56 - Places libres : 25.0% pour la rue Parvis Jules Ferry - Gare Saint-Roch
+2025-01-17 17:51:56 - Places libres : 66.67% pour la rue Pont de Lattes - Gare Saint-Roch
+2025-01-17 17:51:56 - Places libres : 100% pour la rue Deux Ponts - Gare Saint-Roch
+2025-01-17 17:51:56 - Places libres : 50.0% pour la rue Providence - Ovalie
+2025-01-17 17:51:56 - Places libres : 45.59% pour la rue Pérols Etang de l Or
+2025-01-17 17:51:56 - Places libres : 58.33% pour la rue Albert 1er - Cathédrale
+2025-01-17 17:51:56 - Places libres : 0.0% pour la rue Saint-Guilhem - Courreau
+2025-01-17 17:51:56 - Places libres : 87.5% pour la rue Sud De France
+2025-01-17 17:51:56 - Places libres : 50.0% pour la rue Comedie Baudin
+2025-01-17 17:51:56 - Places libres : 31.25% pour la rue Jean de Beins
+
+Il y a en moyenne : 53.91% de places libres pour les vélos.
+
+2025-01-17 17:51:56 - Places libres : 59.41% pour le parking Antigone
+2025-01-17 17:51:56 - Places libres : 51.71% pour le parking Comedie
+2025-01-17 17:51:56 - Places libres : 54.69% pour le parking Corum
+2025-01-17 17:51:56 - Places libres : 71.74% pour le parking Europa
+2025-01-17 17:51:56 - Places libres : 14.88% pour le parking Foch
+2025-01-17 17:51:56 - Places libres : 42.27% pour le parking Gambetta
+2025-01-17 17:51:56 - Places libres : 41.65% pour le parking Gare
+2025-01-17 17:51:56 - Places libres : 62.21% pour le parking Triangle
+2025-01-17 17:51:56 - Places libres : 70.36% pour le parking Pitot
+2025-01-17 17:51:56 - Places libres : 83.17% pour le parking Circe
+2025-01-17 17:51:56 - Places libres : 75.19% pour le parking Garcia Lorca
+2025-01-17 17:51:56 - Places libres : 52.86% pour le parking Mosson
+2025-01-17 17:51:56 - Places libres : 39.09% pour le parking Sabines
+2025-01-17 17:51:56 - Places libres : 69.09% pour le parking Sablassou
+2025-01-17 17:51:56 - Places libres : 81.05% pour le parking Saint Jean Le Sec
+2025-01-17 17:51:56 - Places libres : 36.86% pour le parking Euromedecine
+2025-01-17 17:51:56 - Places libres : 54.47% pour le parking Occitanie
+2025-01-17 17:51:56 - Places libres : 50.77% pour le parking Vicarello
+2025-01-17 17:51:56 - Places libres : 85.32% pour le parking Gaumont EST
+2025-01-17 17:51:56 - Places libres : 31.6% pour le parking Gaumont OUEST
+2025-01-17 17:51:56 - Places libres : 26.54% pour le parking Charles de Gaulle
+2025-01-17 17:51:56 - Places libres : 53.43% pour le parking Polygone
+2025-01-17 17:51:56 - Places libres : 23.18% pour le parking Arc de Triomphe
+2025-01-17 17:51:56 - Places libres : 83.0% pour le parking Gaumont-Circe
+
+Il y a en moyenne : 54.77% de places libres pour les parkings de voitures.
+
+
+
+2025-01-17 18:51:57 - Places libres : 33.33% pour la rue Rue Jules Ferry - Gare Saint-Roch
+2025-01-17 18:51:57 - Places libres : 40.0% pour la rue Comédie
+2025-01-17 18:51:57 - Places libres : 93.75% pour la rue Hôtel de Ville
+2025-01-17 18:51:57 - Places libres : 75.0% pour la rue Corum
+2025-01-17 18:51:57 - Places libres : 55.56% pour la rue Place Albert 1er - St Charles
+2025-01-17 18:51:57 - Places libres : 62.5% pour la rue Foch
+2025-01-17 18:51:57 - Places libres : 50.0% pour la rue Halles Castellane
+2025-01-17 18:51:57 - Places libres : 62.5% pour la rue Observatoire
+2025-01-17 18:51:57 - Places libres : 68.75% pour la rue Rondelet
+2025-01-17 18:51:57 - Places libres : 50.0% pour la rue Plan Cabanes
+2025-01-17 18:51:57 - Places libres : 33.33% pour la rue Boutonnet
+2025-01-17 18:51:57 - Places libres : 37.5% pour la rue Emile Combes
+2025-01-17 18:51:57 - Places libres : 43.75% pour la rue Beaux-Arts
+2025-01-17 18:51:57 - Places libres : 50.0% pour la rue Les Aubes
+2025-01-17 18:51:57 - Places libres : 75.0% pour la rue Antigone centre
+2025-01-17 18:51:57 - Places libres : 68.75% pour la rue Médiathèque Emile Zola
+2025-01-17 18:51:57 - Places libres : 50.0% pour la rue Nombre d Or
+2025-01-17 18:51:57 - Places libres : 31.25% pour la rue Louis Blanc
+2025-01-17 18:51:57 - Places libres : 75.0% pour la rue Gambetta
+2025-01-17 18:51:57 - Places libres : 68.75% pour la rue Port Marianne
+2025-01-17 18:51:57 - Places libres : 75.0% pour la rue Les Arceaux
+2025-01-17 18:51:57 - Places libres : 50.0% pour la rue Cité Mion
+2025-01-17 18:51:57 - Places libres : 75.0% pour la rue Nouveau Saint-Roch
+2025-01-17 18:51:57 - Places libres : 62.5% pour la rue Renouvier
+2025-01-17 18:51:57 - Places libres : 100% pour la rue Odysseum
+2025-01-17 18:51:57 - Places libres : 100% pour la rue Saint-Denis
+2025-01-17 18:51:57 - Places libres : 43.75% pour la rue Richter
+2025-01-17 18:51:57 - Places libres : 62.5% pour la rue Charles Flahault
+2025-01-17 18:51:57 - Places libres : 37.5% pour la rue Voltaire
+2025-01-17 18:51:57 - Places libres : 37.5% pour la rue Prés d Arènes
+2025-01-17 18:51:57 - Places libres : 37.5% pour la rue Garcia Lorca
+2025-01-17 18:51:57 - Places libres : 43.75% pour la rue Vert Bois
+2025-01-17 18:51:57 - Places libres : 50.0% pour la rue Malbosc
+2025-01-17 18:51:57 - Places libres : 93.75% pour la rue Occitanie
+2025-01-17 18:51:57 - Places libres : 50.0% pour la rue FacdesSciences
+2025-01-17 18:51:57 - Places libres : 25.0% pour la rue Fac de Lettres
+2025-01-17 18:51:57 - Places libres : 12.5% pour la rue Aiguelongue
+2025-01-17 18:51:57 - Places libres : 37.5% pour la rue Jeu de Mail des Abbés
+2025-01-17 18:51:57 - Places libres : 50.0% pour la rue Euromédecine
+2025-01-17 18:51:57 - Places libres : 37.5% pour la rue Marie Caizergues
+2025-01-17 18:51:57 - Places libres : 50.0% pour la rue Sabines
+2025-01-17 18:51:57 - Places libres : 50.0% pour la rue Celleneuve
+2025-01-17 18:51:57 - Places libres : 87.5% pour la rue Jardin de la Lironde
+2025-01-17 18:51:57 - Places libres : 62.5% pour la rue Père Soulas
+2025-01-17 18:51:57 - Places libres : 37.5% pour la rue Place Viala
+2025-01-17 18:51:57 - Places libres : 62.5% pour la rue Hôtel du Département
+2025-01-17 18:51:57 - Places libres : 87.5% pour la rue Tonnelles
+2025-01-17 18:51:57 - Places libres : 12.5% pour la rue Parvis Jules Ferry - Gare Saint-Roch
+2025-01-17 18:51:57 - Places libres : 66.67% pour la rue Pont de Lattes - Gare Saint-Roch
+2025-01-17 18:51:57 - Places libres : 100% pour la rue Deux Ponts - Gare Saint-Roch
+2025-01-17 18:51:57 - Places libres : 62.5% pour la rue Providence - Ovalie
+2025-01-17 18:51:57 - Places libres : 45.59% pour la rue Pérols Etang de l Or
+2025-01-17 18:51:57 - Places libres : 50.0% pour la rue Albert 1er - Cathédrale
+2025-01-17 18:51:57 - Places libres : 12.5% pour la rue Saint-Guilhem - Courreau
+2025-01-17 18:51:57 - Places libres : 87.5% pour la rue Sud De France
+2025-01-17 18:51:57 - Places libres : 50.0% pour la rue Comedie Baudin
+2025-01-17 18:51:57 - Places libres : 31.25% pour la rue Jean de Beins
+
+Il y a en moyenne : 55.95% de places libres pour les vélos.
+
+2025-01-17 18:51:57 - Places libres : 58.58% pour le parking Antigone
+2025-01-17 18:51:57 - Places libres : 54.45% pour le parking Comedie
+2025-01-17 18:51:57 - Places libres : 51.63% pour le parking Corum
+2025-01-17 18:51:57 - Places libres : 75.8% pour le parking Europa
+2025-01-17 18:51:57 - Places libres : 14.88% pour le parking Foch
+2025-01-17 18:51:57 - Places libres : 45.45% pour le parking Gambetta
+2025-01-17 18:51:57 - Places libres : 41.81% pour le parking Gare
+2025-01-17 18:51:57 - Places libres : 72.58% pour le parking Triangle
+2025-01-17 18:51:57 - Places libres : 70.7% pour le parking Pitot
+2025-01-17 18:51:57 - Places libres : 88.0% pour le parking Circe
+2025-01-17 18:51:57 - Places libres : 79.24% pour le parking Garcia Lorca
+2025-01-17 18:51:57 - Places libres : 30.29% pour le parking Mosson
+2025-01-17 18:51:57 - Places libres : 57.73% pour le parking Sabines
+2025-01-17 18:51:57 - Places libres : 79.03% pour le parking Sablassou
+2025-01-17 18:51:57 - Places libres : 90.18% pour le parking Saint Jean Le Sec
+2025-01-17 18:51:57 - Places libres : 33.33% pour le parking Euromedecine
+2025-01-17 18:51:57 - Places libres : 69.59% pour le parking Occitanie
+2025-01-17 18:51:57 - Places libres : 75.38% pour le parking Vicarello
+2025-01-17 18:51:57 - Places libres : 87.16% pour le parking Gaumont EST
+2025-01-17 18:51:57 - Places libres : 25.6% pour le parking Gaumont OUEST
+2025-01-17 18:51:57 - Places libres : 32.31% pour le parking Charles de Gaulle
+2025-01-17 18:51:57 - Places libres : 57.46% pour le parking Polygone
+2025-01-17 18:51:57 - Places libres : 23.64% pour le parking Arc de Triomphe
+2025-01-17 18:51:57 - Places libres : 88.8% pour le parking Gaumont-Circe
+
+Il y a en moyenne : 58.48% de places libres pour les parkings de voitures.
+
+
+
+2025-01-17 19:51:58 - Places libres : 25.0% pour la rue Rue Jules Ferry - Gare Saint-Roch
+2025-01-17 19:51:58 - Places libres : 15.0% pour la rue Comédie
+2025-01-17 19:51:58 - Places libres : 93.75% pour la rue Hôtel de Ville
+2025-01-17 19:51:58 - Places libres : 66.67% pour la rue Corum
+2025-01-17 19:51:58 - Places libres : 55.56% pour la rue Place Albert 1er - St Charles
+2025-01-17 19:51:58 - Places libres : 75.0% pour la rue Foch
+2025-01-17 19:51:58 - Places libres : 58.33% pour la rue Halles Castellane
+2025-01-17 19:51:58 - Places libres : 62.5% pour la rue Observatoire
+2025-01-17 19:51:58 - Places libres : 68.75% pour la rue Rondelet
+2025-01-17 19:51:58 - Places libres : 66.67% pour la rue Plan Cabanes
+2025-01-17 19:51:58 - Places libres : 25.0% pour la rue Boutonnet
+2025-01-17 19:51:58 - Places libres : 37.5% pour la rue Emile Combes
+2025-01-17 19:51:58 - Places libres : 43.75% pour la rue Beaux-Arts
+2025-01-17 19:51:58 - Places libres : 50.0% pour la rue Les Aubes
+2025-01-17 19:51:58 - Places libres : 66.67% pour la rue Antigone centre
+2025-01-17 19:51:58 - Places libres : 62.5% pour la rue Médiathèque Emile Zola
+2025-01-17 19:51:58 - Places libres : 50.0% pour la rue Nombre d Or
+2025-01-17 19:51:58 - Places libres : 37.5% pour la rue Louis Blanc
+2025-01-17 19:51:58 - Places libres : 62.5% pour la rue Gambetta
+2025-01-17 19:51:58 - Places libres : 75.0% pour la rue Port Marianne
+2025-01-17 19:51:58 - Places libres : 75.0% pour la rue Les Arceaux
+2025-01-17 19:51:58 - Places libres : 50.0% pour la rue Cité Mion
+2025-01-17 19:51:58 - Places libres : 75.0% pour la rue Nouveau Saint-Roch
+2025-01-17 19:51:58 - Places libres : 62.5% pour la rue Renouvier
+2025-01-17 19:51:58 - Places libres : 100% pour la rue Odysseum
+2025-01-17 19:51:58 - Places libres : 100% pour la rue Saint-Denis
+2025-01-17 19:51:58 - Places libres : 50.0% pour la rue Richter
+2025-01-17 19:51:58 - Places libres : 62.5% pour la rue Charles Flahault
+2025-01-17 19:51:58 - Places libres : 37.5% pour la rue Voltaire
+2025-01-17 19:51:58 - Places libres : 50.0% pour la rue Prés d Arènes
+2025-01-17 19:51:58 - Places libres : 50.0% pour la rue Garcia Lorca
+2025-01-17 19:51:58 - Places libres : 43.75% pour la rue Vert Bois
+2025-01-17 19:51:58 - Places libres : 50.0% pour la rue Malbosc
+2025-01-17 19:51:58 - Places libres : 93.75% pour la rue Occitanie
+2025-01-17 19:51:58 - Places libres : 45.83% pour la rue FacdesSciences
+2025-01-17 19:51:58 - Places libres : 41.67% pour la rue Fac de Lettres
+2025-01-17 19:51:58 - Places libres : 12.5% pour la rue Aiguelongue
+2025-01-17 19:51:58 - Places libres : 37.5% pour la rue Jeu de Mail des Abbés
+2025-01-17 19:51:58 - Places libres : 50.0% pour la rue Euromédecine
+2025-01-17 19:51:58 - Places libres : 37.5% pour la rue Marie Caizergues
+2025-01-17 19:51:58 - Places libres : 50.0% pour la rue Sabines
+2025-01-17 19:51:58 - Places libres : 87.5% pour la rue Celleneuve
+2025-01-17 19:51:58 - Places libres : 87.5% pour la rue Jardin de la Lironde
+2025-01-17 19:51:58 - Places libres : 37.5% pour la rue Père Soulas
+2025-01-17 19:51:58 - Places libres : 50.0% pour la rue Place Viala
+2025-01-17 19:51:58 - Places libres : 62.5% pour la rue Hôtel du Département
+2025-01-17 19:51:58 - Places libres : 87.5% pour la rue Tonnelles
+2025-01-17 19:51:58 - Places libres : 0.0% pour la rue Parvis Jules Ferry - Gare Saint-Roch
+2025-01-17 19:51:58 - Places libres : 58.33% pour la rue Pont de Lattes - Gare Saint-Roch
+2025-01-17 19:51:58 - Places libres : 100% pour la rue Deux Ponts - Gare Saint-Roch
+2025-01-17 19:51:58 - Places libres : 50.0% pour la rue Providence - Ovalie
+2025-01-17 19:51:58 - Places libres : 45.59% pour la rue Pérols Etang de l Or
+2025-01-17 19:51:58 - Places libres : 50.0% pour la rue Albert 1er - Cathédrale
+2025-01-17 19:51:58 - Places libres : 25.0% pour la rue Saint-Guilhem - Courreau
+2025-01-17 19:51:58 - Places libres : 75.0% pour la rue Sud De France
+2025-01-17 19:51:58 - Places libres : 37.5% pour la rue Comedie Baudin
+2025-01-17 19:51:58 - Places libres : 37.5% pour la rue Jean de Beins
+
+Il y a en moyenne : 56.66% de places libres pour les vélos.
+
+2025-01-17 19:51:58 - Places libres : 59.83% pour le parking Antigone
+2025-01-17 19:51:58 - Places libres : 42.82% pour le parking Comedie
+2025-01-17 19:51:58 - Places libres : 27.14% pour le parking Corum
+2025-01-17 19:51:58 - Places libres : 80.03% pour le parking Europa
+2025-01-17 19:51:58 - Places libres : 14.88% pour le parking Foch
+2025-01-17 19:51:58 - Places libres : 37.5% pour le parking Gambetta
+2025-01-17 19:51:58 - Places libres : 37.37% pour le parking Gare
+2025-01-17 19:51:58 - Places libres : 73.27% pour le parking Triangle
+2025-01-17 19:51:58 - Places libres : 65.76% pour le parking Pitot
+2025-01-17 19:51:58 - Places libres : 90.67% pour le parking Circe
+2025-01-17 19:51:58 - Places libres : 80.51% pour le parking Garcia Lorca
+2025-01-17 19:51:58 - Places libres : 29.43% pour le parking Mosson
+2025-01-17 19:51:58 - Places libres : 70.45% pour le parking Sabines
+2025-01-17 19:51:58 - Places libres : 81.99% pour le parking Sablassou
+2025-01-17 19:51:58 - Places libres : 90.88% pour le parking Saint Jean Le Sec
+2025-01-17 19:51:58 - Places libres : 32.55% pour le parking Euromedecine
+2025-01-17 19:51:58 - Places libres : 73.66% pour le parking Occitanie
+2025-01-17 19:51:58 - Places libres : 83.08% pour le parking Vicarello
+2025-01-17 19:51:58 - Places libres : 89.91% pour le parking Gaumont EST
+2025-01-17 19:51:58 - Places libres : 29.2% pour le parking Gaumont OUEST
+2025-01-17 19:51:58 - Places libres : 33.46% pour le parking Charles de Gaulle
+2025-01-17 19:51:58 - Places libres : 58.71% pour le parking Polygone
+2025-01-17 19:51:58 - Places libres : 15.45% pour le parking Arc de Triomphe
+2025-01-17 19:51:58 - Places libres : 82.4% pour le parking Gaumont-Circe
+
+Il y a en moyenne : 57.54% de places libres pour les parkings de voitures.
+
+
+
+2025-01-17 20:51:58 - Places libres : 25.0% pour la rue Rue Jules Ferry - Gare Saint-Roch
+2025-01-17 20:51:58 - Places libres : 0.0% pour la rue Comédie
+2025-01-17 20:51:58 - Places libres : 87.5% pour la rue Hôtel de Ville
+2025-01-17 20:51:58 - Places libres : 66.67% pour la rue Corum
+2025-01-17 20:51:58 - Places libres : 55.56% pour la rue Place Albert 1er - St Charles
+2025-01-17 20:51:58 - Places libres : 75.0% pour la rue Foch
+2025-01-17 20:51:58 - Places libres : 50.0% pour la rue Halles Castellane
+2025-01-17 20:51:58 - Places libres : 50.0% pour la rue Observatoire
+2025-01-17 20:51:58 - Places libres : 68.75% pour la rue Rondelet
+2025-01-17 20:51:58 - Places libres : 66.67% pour la rue Plan Cabanes
+2025-01-17 20:51:58 - Places libres : 25.0% pour la rue Boutonnet
+2025-01-17 20:51:58 - Places libres : 37.5% pour la rue Emile Combes
+2025-01-17 20:51:58 - Places libres : 43.75% pour la rue Beaux-Arts
+2025-01-17 20:51:58 - Places libres : 50.0% pour la rue Les Aubes
+2025-01-17 20:51:58 - Places libres : 66.67% pour la rue Antigone centre
+2025-01-17 20:51:58 - Places libres : 62.5% pour la rue Médiathèque Emile Zola
+2025-01-17 20:51:58 - Places libres : 50.0% pour la rue Nombre d Or
+2025-01-17 20:51:58 - Places libres : 31.25% pour la rue Louis Blanc
+2025-01-17 20:51:58 - Places libres : 62.5% pour la rue Gambetta
+2025-01-17 20:51:58 - Places libres : 75.0% pour la rue Port Marianne
+2025-01-17 20:51:58 - Places libres : 87.5% pour la rue Les Arceaux
+2025-01-17 20:51:58 - Places libres : 50.0% pour la rue Cité Mion
+2025-01-17 20:51:58 - Places libres : 75.0% pour la rue Nouveau Saint-Roch
+2025-01-17 20:51:58 - Places libres : 62.5% pour la rue Renouvier
+2025-01-17 20:51:58 - Places libres : 100% pour la rue Odysseum
+2025-01-17 20:51:58 - Places libres : 100% pour la rue Saint-Denis
+2025-01-17 20:51:58 - Places libres : 50.0% pour la rue Richter
+2025-01-17 20:51:58 - Places libres : 75.0% pour la rue Charles Flahault
+2025-01-17 20:51:58 - Places libres : 37.5% pour la rue Voltaire
+2025-01-17 20:51:58 - Places libres : 50.0% pour la rue Prés d Arènes
+2025-01-17 20:51:58 - Places libres : 50.0% pour la rue Garcia Lorca
+2025-01-17 20:51:58 - Places libres : 50.0% pour la rue Vert Bois
+2025-01-17 20:51:58 - Places libres : 50.0% pour la rue Malbosc
+2025-01-17 20:51:58 - Places libres : 93.75% pour la rue Occitanie
+2025-01-17 20:51:58 - Places libres : 50.0% pour la rue FacdesSciences
+2025-01-17 20:51:58 - Places libres : 41.67% pour la rue Fac de Lettres
+2025-01-17 20:51:58 - Places libres : 12.5% pour la rue Aiguelongue
+2025-01-17 20:51:58 - Places libres : 37.5% pour la rue Jeu de Mail des Abbés
+2025-01-17 20:51:58 - Places libres : 50.0% pour la rue Euromédecine
+2025-01-17 20:51:58 - Places libres : 37.5% pour la rue Marie Caizergues
+2025-01-17 20:51:58 - Places libres : 50.0% pour la rue Sabines
+2025-01-17 20:51:58 - Places libres : 87.5% pour la rue Celleneuve
+2025-01-17 20:51:58 - Places libres : 87.5% pour la rue Jardin de la Lironde
+2025-01-17 20:51:58 - Places libres : 37.5% pour la rue Père Soulas
+2025-01-17 20:51:58 - Places libres : 50.0% pour la rue Place Viala
+2025-01-17 20:51:58 - Places libres : 50.0% pour la rue Hôtel du Département
+2025-01-17 20:51:58 - Places libres : 100% pour la rue Tonnelles
+2025-01-17 20:51:58 - Places libres : 0.0% pour la rue Parvis Jules Ferry - Gare Saint-Roch
+2025-01-17 20:51:58 - Places libres : 58.33% pour la rue Pont de Lattes - Gare Saint-Roch
+2025-01-17 20:51:58 - Places libres : 100% pour la rue Deux Ponts - Gare Saint-Roch
+2025-01-17 20:51:58 - Places libres : 50.0% pour la rue Providence - Ovalie
+2025-01-17 20:51:58 - Places libres : 45.59% pour la rue Pérols Etang de l Or
+2025-01-17 20:51:58 - Places libres : 50.0% pour la rue Albert 1er - Cathédrale
+2025-01-17 20:51:58 - Places libres : 12.5% pour la rue Saint-Guilhem - Courreau
+2025-01-17 20:51:58 - Places libres : 75.0% pour la rue Sud De France
+2025-01-17 20:51:58 - Places libres : 25.0% pour la rue Comedie Baudin
+2025-01-17 20:51:58 - Places libres : 37.5% pour la rue Jean de Beins
+
+Il y a en moyenne : 56.04% de places libres pour les vélos.
+
+2025-01-17 20:51:58 - Places libres : 61.92% pour le parking Antigone
+2025-01-17 20:51:58 - Places libres : 30.51% pour le parking Comedie
+2025-01-17 20:51:58 - Places libres : 16.73% pour le parking Corum
+2025-01-17 20:51:58 - Places libres : 73.77% pour le parking Europa
+2025-01-17 20:51:58 - Places libres : 14.88% pour le parking Foch
+2025-01-17 20:51:58 - Places libres : 35.0% pour le parking Gambetta
+2025-01-17 20:51:58 - Places libres : 26.8% pour le parking Gare
+2025-01-17 20:51:58 - Places libres : 68.89% pour le parking Triangle
+2025-01-17 20:51:58 - Places libres : 48.21% pour le parking Pitot
+2025-01-17 20:51:58 - Places libres : 91.0% pour le parking Circe
+2025-01-17 20:51:58 - Places libres : 81.52% pour le parking Garcia Lorca
+2025-01-17 20:51:58 - Places libres : 32.86% pour le parking Mosson
+2025-01-17 20:51:58 - Places libres : 75.91% pour le parking Sabines
+2025-01-17 20:51:58 - Places libres : 83.6% pour le parking Sablassou
+2025-01-17 20:51:58 - Places libres : 92.28% pour le parking Saint Jean Le Sec
+2025-01-17 20:51:58 - Places libres : 35.29% pour le parking Euromedecine
+2025-01-17 20:51:58 - Places libres : 76.42% pour le parking Occitanie
+2025-01-17 20:51:58 - Places libres : 81.54% pour le parking Vicarello
+2025-01-17 20:51:58 - Places libres : 91.74% pour le parking Gaumont EST
+2025-01-17 20:51:58 - Places libres : 32.4% pour le parking Gaumont OUEST
+2025-01-17 20:51:58 - Places libres : 30.77% pour le parking Charles de Gaulle
+2025-01-17 20:51:58 - Places libres : 60.75% pour le parking Polygone
+2025-01-17 20:51:58 - Places libres : 5.23% pour le parking Arc de Triomphe
+2025-01-17 20:51:58 - Places libres : 80.6% pour le parking Gaumont-Circe
+
+Il y a en moyenne : 55.36% de places libres pour les parkings de voitures.
+
+
+
+2025-01-17 21:52:11 - Places libres : 25.0% pour la rue Rue Jules Ferry - Gare Saint-Roch
+2025-01-17 21:52:11 - Places libres : 5.0% pour la rue Comédie
+2025-01-17 21:52:11 - Places libres : 87.5% pour la rue Hôtel de Ville
+2025-01-17 21:52:11 - Places libres : 66.67% pour la rue Corum
+2025-01-17 21:52:11 - Places libres : 51.85% pour la rue Place Albert 1er - St Charles
+2025-01-17 21:52:11 - Places libres : 75.0% pour la rue Foch
+2025-01-17 21:52:11 - Places libres : 50.0% pour la rue Halles Castellane
+2025-01-17 21:52:11 - Places libres : 37.5% pour la rue Observatoire
+2025-01-17 21:52:11 - Places libres : 62.5% pour la rue Rondelet
+2025-01-17 21:52:11 - Places libres : 83.33% pour la rue Plan Cabanes
+2025-01-17 21:52:11 - Places libres : 41.67% pour la rue Boutonnet
+2025-01-17 21:52:11 - Places libres : 37.5% pour la rue Emile Combes
+2025-01-17 21:52:11 - Places libres : 43.75% pour la rue Beaux-Arts
+2025-01-17 21:52:11 - Places libres : 50.0% pour la rue Les Aubes
+2025-01-17 21:52:11 - Places libres : 66.67% pour la rue Antigone centre
+2025-01-17 21:52:11 - Places libres : 62.5% pour la rue Médiathèque Emile Zola
+2025-01-17 21:52:11 - Places libres : 50.0% pour la rue Nombre d Or
+2025-01-17 21:52:11 - Places libres : 31.25% pour la rue Louis Blanc
+2025-01-17 21:52:11 - Places libres : 62.5% pour la rue Gambetta
+2025-01-17 21:52:11 - Places libres : 75.0% pour la rue Port Marianne
+2025-01-17 21:52:11 - Places libres : 87.5% pour la rue Les Arceaux
+2025-01-17 21:52:11 - Places libres : 50.0% pour la rue Cité Mion
+2025-01-17 21:52:11 - Places libres : 75.0% pour la rue Nouveau Saint-Roch
+2025-01-17 21:52:11 - Places libres : 75.0% pour la rue Renouvier
+2025-01-17 21:52:11 - Places libres : 100% pour la rue Odysseum
+2025-01-17 21:52:11 - Places libres : 100% pour la rue Saint-Denis
+2025-01-17 21:52:11 - Places libres : 50.0% pour la rue Richter
+2025-01-17 21:52:11 - Places libres : 62.5% pour la rue Charles Flahault
+2025-01-17 21:52:11 - Places libres : 37.5% pour la rue Voltaire
+2025-01-17 21:52:11 - Places libres : 50.0% pour la rue Prés d Arènes
+2025-01-17 21:52:11 - Places libres : 50.0% pour la rue Garcia Lorca
+2025-01-17 21:52:11 - Places libres : 50.0% pour la rue Vert Bois
+2025-01-17 21:52:11 - Places libres : 50.0% pour la rue Malbosc
+2025-01-17 21:52:11 - Places libres : 93.75% pour la rue Occitanie
+2025-01-17 21:52:11 - Places libres : 54.17% pour la rue FacdesSciences
+2025-01-17 21:52:11 - Places libres : 41.67% pour la rue Fac de Lettres
+2025-01-17 21:52:11 - Places libres : 12.5% pour la rue Aiguelongue
+2025-01-17 21:52:11 - Places libres : 37.5% pour la rue Jeu de Mail des Abbés
+2025-01-17 21:52:11 - Places libres : 50.0% pour la rue Euromédecine
+2025-01-17 21:52:11 - Places libres : 37.5% pour la rue Marie Caizergues
+2025-01-17 21:52:11 - Places libres : 50.0% pour la rue Sabines
+2025-01-17 21:52:11 - Places libres : 100% pour la rue Celleneuve
+2025-01-17 21:52:11 - Places libres : 87.5% pour la rue Jardin de la Lironde
+2025-01-17 21:52:11 - Places libres : 37.5% pour la rue Père Soulas
+2025-01-17 21:52:11 - Places libres : 62.5% pour la rue Place Viala
+2025-01-17 21:52:11 - Places libres : 62.5% pour la rue Hôtel du Département
+2025-01-17 21:52:11 - Places libres : 100% pour la rue Tonnelles
+2025-01-17 21:52:11 - Places libres : 0.0% pour la rue Parvis Jules Ferry - Gare Saint-Roch
+2025-01-17 21:52:11 - Places libres : 58.33% pour la rue Pont de Lattes - Gare Saint-Roch
+2025-01-17 21:52:11 - Places libres : 100% pour la rue Deux Ponts - Gare Saint-Roch
+2025-01-17 21:52:11 - Places libres : 50.0% pour la rue Providence - Ovalie
+2025-01-17 21:52:11 - Places libres : 45.59% pour la rue Pérols Etang de l Or
+2025-01-17 21:52:11 - Places libres : 50.0% pour la rue Albert 1er - Cathédrale
+2025-01-17 21:52:11 - Places libres : 12.5% pour la rue Saint-Guilhem - Courreau
+2025-01-17 21:52:11 - Places libres : 75.0% pour la rue Sud De France
+2025-01-17 21:52:11 - Places libres : 25.0% pour la rue Comedie Baudin
+2025-01-17 21:52:11 - Places libres : 37.5% pour la rue Jean de Beins
+
+Il y a en moyenne : 56.16% de places libres pour les vélos.
+
+2025-01-17 21:52:11 - Places libres : 61.92% pour le parking Antigone
+2025-01-17 21:52:11 - Places libres : 25.03% pour le parking Comedie
+2025-01-17 21:52:11 - Places libres : 15.92% pour le parking Corum
+2025-01-17 21:52:11 - Places libres : 73.27% pour le parking Europa
+2025-01-17 21:52:11 - Places libres : 14.88% pour le parking Foch
+2025-01-17 21:52:11 - Places libres : 34.32% pour le parking Gambetta
+2025-01-17 21:52:11 - Places libres : 34.92% pour le parking Gare
+2025-01-17 21:52:11 - Places libres : 69.35% pour le parking Triangle
+2025-01-17 21:52:11 - Places libres : 39.35% pour le parking Pitot
+2025-01-17 21:52:11 - Places libres : 91.17% pour le parking Circe
+2025-01-17 21:52:11 - Places libres : 81.52% pour le parking Garcia Lorca
+2025-01-17 21:52:11 - Places libres : 84.29% pour le parking Mosson
+2025-01-17 21:52:11 - Places libres : 77.73% pour le parking Sabines
+2025-01-17 21:52:11 - Places libres : 84.68% pour le parking Sablassou
+2025-01-17 21:52:11 - Places libres : 93.68% pour le parking Saint Jean Le Sec
+2025-01-17 21:52:11 - Places libres : 49.8% pour le parking Euromedecine
+2025-01-17 21:52:11 - Places libres : 82.6% pour le parking Occitanie
+2025-01-17 21:52:11 - Places libres : 83.08% pour le parking Vicarello
+2025-01-17 21:52:11 - Places libres : 93.58% pour le parking Gaumont EST
+2025-01-17 21:52:11 - Places libres : 39.2% pour le parking Gaumont OUEST
+2025-01-17 21:52:11 - Places libres : 28.85% pour le parking Charles de Gaulle
+2025-01-17 21:52:11 - Places libres : 62.79% pour le parking Polygone
+2025-01-17 21:52:11 - Places libres : 6.59% pour le parking Arc de Triomphe
+2025-01-17 21:52:11 - Places libres : 82.4% pour le parking Gaumont-Circe
+
+Il y a en moyenne : 58.79% de places libres pour les parkings de voitures.
+
+
+
+2025-01-17 22:52:11 - Places libres : 25.0% pour la rue Rue Jules Ferry - Gare Saint-Roch
+2025-01-17 22:52:11 - Places libres : 5.0% pour la rue Comédie
+2025-01-17 22:52:11 - Places libres : 87.5% pour la rue Hôtel de Ville
+2025-01-17 22:52:11 - Places libres : 66.67% pour la rue Corum
+2025-01-17 22:52:11 - Places libres : 55.56% pour la rue Place Albert 1er - St Charles
+2025-01-17 22:52:11 - Places libres : 87.5% pour la rue Foch
+2025-01-17 22:52:11 - Places libres : 41.67% pour la rue Halles Castellane
+2025-01-17 22:52:11 - Places libres : 50.0% pour la rue Observatoire
+2025-01-17 22:52:11 - Places libres : 62.5% pour la rue Rondelet
+2025-01-17 22:52:11 - Places libres : 83.33% pour la rue Plan Cabanes
+2025-01-17 22:52:11 - Places libres : 33.33% pour la rue Boutonnet
+2025-01-17 22:52:11 - Places libres : 37.5% pour la rue Emile Combes
+2025-01-17 22:52:11 - Places libres : 43.75% pour la rue Beaux-Arts
+2025-01-17 22:52:11 - Places libres : 50.0% pour la rue Les Aubes
+2025-01-17 22:52:11 - Places libres : 58.33% pour la rue Antigone centre
+2025-01-17 22:52:11 - Places libres : 62.5% pour la rue Médiathèque Emile Zola
+2025-01-17 22:52:11 - Places libres : 50.0% pour la rue Nombre d Or
+2025-01-17 22:52:11 - Places libres : 18.75% pour la rue Louis Blanc
+2025-01-17 22:52:11 - Places libres : 62.5% pour la rue Gambetta
+2025-01-17 22:52:11 - Places libres : 75.0% pour la rue Port Marianne
+2025-01-17 22:52:11 - Places libres : 100% pour la rue Les Arceaux
+2025-01-17 22:52:11 - Places libres : 50.0% pour la rue Cité Mion
+2025-01-17 22:52:11 - Places libres : 100% pour la rue Nouveau Saint-Roch
+2025-01-17 22:52:11 - Places libres : 75.0% pour la rue Renouvier
+2025-01-17 22:52:11 - Places libres : 100% pour la rue Odysseum
+2025-01-17 22:52:11 - Places libres : 100% pour la rue Saint-Denis
+2025-01-17 22:52:11 - Places libres : 43.75% pour la rue Richter
+2025-01-17 22:52:11 - Places libres : 62.5% pour la rue Charles Flahault
+2025-01-17 22:52:11 - Places libres : 25.0% pour la rue Voltaire
+2025-01-17 22:52:11 - Places libres : 62.5% pour la rue Prés d Arènes
+2025-01-17 22:52:11 - Places libres : 37.5% pour la rue Garcia Lorca
+2025-01-17 22:52:11 - Places libres : 50.0% pour la rue Vert Bois
+2025-01-17 22:52:11 - Places libres : 50.0% pour la rue Malbosc
+2025-01-17 22:52:11 - Places libres : 90.62% pour la rue Occitanie
+2025-01-17 22:52:11 - Places libres : 50.0% pour la rue FacdesSciences
+2025-01-17 22:52:11 - Places libres : 41.67% pour la rue Fac de Lettres
+2025-01-17 22:52:11 - Places libres : 12.5% pour la rue Aiguelongue
+2025-01-17 22:52:11 - Places libres : 50.0% pour la rue Jeu de Mail des Abbés
+2025-01-17 22:52:11 - Places libres : 50.0% pour la rue Euromédecine
+2025-01-17 22:52:11 - Places libres : 50.0% pour la rue Marie Caizergues
+2025-01-17 22:52:11 - Places libres : 50.0% pour la rue Sabines
+2025-01-17 22:52:11 - Places libres : 100% pour la rue Celleneuve
+2025-01-17 22:52:11 - Places libres : 87.5% pour la rue Jardin de la Lironde
+2025-01-17 22:52:11 - Places libres : 37.5% pour la rue Père Soulas
+2025-01-17 22:52:11 - Places libres : 75.0% pour la rue Place Viala
+2025-01-17 22:52:11 - Places libres : 75.0% pour la rue Hôtel du Département
+2025-01-17 22:52:11 - Places libres : 100% pour la rue Tonnelles
+2025-01-17 22:52:11 - Places libres : 0.0% pour la rue Parvis Jules Ferry - Gare Saint-Roch
+2025-01-17 22:52:11 - Places libres : 58.33% pour la rue Pont de Lattes - Gare Saint-Roch
+2025-01-17 22:52:11 - Places libres : 100% pour la rue Deux Ponts - Gare Saint-Roch
+2025-01-17 22:52:11 - Places libres : 50.0% pour la rue Providence - Ovalie
+2025-01-17 22:52:11 - Places libres : 45.59% pour la rue Pérols Etang de l Or
+2025-01-17 22:52:11 - Places libres : 50.0% pour la rue Albert 1er - Cathédrale
+2025-01-17 22:52:11 - Places libres : 12.5% pour la rue Saint-Guilhem - Courreau
+2025-01-17 22:52:11 - Places libres : 75.0% pour la rue Sud De France
+2025-01-17 22:52:11 - Places libres : 25.0% pour la rue Comedie Baudin
+2025-01-17 22:52:11 - Places libres : 37.5% pour la rue Jean de Beins
+
+Il y a en moyenne : 57.87% de places libres pour les vélos.
+
+2025-01-17 22:52:11 - Places libres : 62.34% pour le parking Antigone
+2025-01-17 22:52:11 - Places libres : 34.47% pour le parking Comedie
+2025-01-17 22:52:11 - Places libres : 39.59% pour le parking Corum
+2025-01-17 22:52:11 - Places libres : 80.54% pour le parking Europa
+2025-01-17 22:52:11 - Places libres : 14.88% pour le parking Foch
+2025-01-17 22:52:11 - Places libres : 36.14% pour le parking Gambetta
+2025-01-17 22:52:11 - Places libres : 39.36% pour le parking Gare
+2025-01-17 22:52:11 - Places libres : 74.19% pour le parking Triangle
+2025-01-17 22:52:11 - Places libres : 43.44% pour le parking Pitot
+2025-01-17 22:52:11 - Places libres : 91.83% pour le parking Circe
+2025-01-17 22:52:11 - Places libres : 82.03% pour le parking Garcia Lorca
+2025-01-17 22:52:11 - Places libres : 90.29% pour le parking Mosson
+2025-01-17 22:52:11 - Places libres : 83.64% pour le parking Sabines
+2025-01-17 22:52:11 - Places libres : 86.02% pour le parking Sablassou
+2025-01-17 22:52:11 - Places libres : 94.04% pour le parking Saint Jean Le Sec
+2025-01-17 22:52:11 - Places libres : 52.55% pour le parking Euromedecine
+2025-01-17 22:52:11 - Places libres : 85.37% pour le parking Occitanie
+2025-01-17 22:52:11 - Places libres : 84.62% pour le parking Vicarello
+2025-01-17 22:52:11 - Places libres : 98.17% pour le parking Gaumont EST
+2025-01-17 22:52:11 - Places libres : 44.0% pour le parking Gaumont OUEST
+2025-01-17 22:52:11 - Places libres : 28.85% pour le parking Charles de Gaulle
+2025-01-17 22:52:11 - Places libres : 69.28% pour le parking Polygone
+2025-01-17 22:52:11 - Places libres : 11.36% pour le parking Arc de Triomphe
+2025-01-17 22:52:11 - Places libres : 88.4% pour le parking Gaumont-Circe
+
+Il y a en moyenne : 63.14% de places libres pour les parkings de voitures.
+
+
+
+Il y a dans cette période en moyenne : 55.55% de places libres pour les vélos.
+Il y a dans cette période en moyenne : 54.15% de places libres pour les parkings de voitures.

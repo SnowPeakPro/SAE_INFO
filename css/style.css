@@ -1,0 +1,448 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: rgb(1, 168, 239);
+    line-height: 1.6;
+}
+
+/* Navbar Styles */
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: black;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 2vh;
+    font-size: clamp(1vh, 5vw, 3vh);
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    transition: background-color 0.3s;
+}
+
+.navbar a:hover {
+    background-color: gray;
+    border-radius: 5px;
+}
+
+/* Responsive Navbar Styles */
+
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        align-items: center;
+        gap: 5px;
+        padding: 10px;
+        font-size: clamp(1rem, 3vw, 1.5rem);
+    }
+
+    .navbar a {
+        text-align: center;
+        width: 80%;
+        max-width: 300px;
+        padding: 5px 15px;
+    }
+}
+
+
+
+/* Acceuil Section Styles */
+
+.Acceuil {
+    background-color: black;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.main-text {
+    font-size: clamp(1.5rem, 3vw, 4rem);
+    color: white;
+    margin: 10px 0;
+}
+
+.sub-text {
+    font-size: clamp(1rem, 3vw, 2rem);
+    color: white;
+    margin: 10px 10px;
+}
+
+.custom-button {
+    margin-top: 10px;
+    border: 2px solid white;
+    border-radius: 15px;
+    background-color: transparent;
+    color: white;
+    font-size: 1rem;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.custom-button:hover {
+    background-color: rgb(1, 168, 239);
+    color: white;
+}
+
+/* Rapport Section Styles */
+
+.Rapport {
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.titre_a_propos{
+    font-size: 2rem;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.rapport_texte {
+    margin-top: 20px;
+    text-align: justify;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: white;
+    padding: 0 20vh;
+}
+
+.rapport_texte span {
+    color: rgb(1, 168, 239);
+    font-weight: bold;
+}
+
+.rapport_texte question {
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+/* Skills Section Styles */
+
+.Données {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: black;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 0 auto;
+}
+
+.titre_donnee{
+    margin-bottom: 20px;
+}
+
+.donnee_visuel {
+    width: 45%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+.barre_parking {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-left: 40%;
+}
+
+.barre_parking label {
+    width: 70px;
+    font-weight: bold;
+}
+
+.barre_parking input[type="range"] {
+    width: 20%;
+    margin-right: 10px;
+    margin-left : 20px;
+}
+
+.donnee_graphe {
+    width: 50%;
+    text-align: center;
+}
+
+.donnee_graphe h2 {
+    color: rgb(1, 168, 239);
+}
+
+.titre_h2 {
+    font-size: 20px;
+    color: rgb(1, 168, 239);
+    margin-bottom: 20px;
+}
+
+.titre_h27 {
+    font-size: 18px;
+    color: rgb(1, 168, 239);
+    margin-bottom: 20px;
+}
+
+.titre_h20 {
+    font-size: 20px;
+    color: rgb(1, 168, 239);
+    margin-top: 120px;
+    margin-bottom: 20px;
+}
+
+.titre_h266 {
+    font-size: 18px;
+    color: rgb(1, 168, 239);
+    margin-top: 120px;
+    margin-bottom: 20px;
+}
+
+.titre_h22 {
+    font-size: 20px;
+    color: rgb(1, 168, 239);
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.titre_h28 {
+    font-size: 20px;
+    color: rgb(1, 168, 239);
+    margin-top: 55px;
+    margin-bottom: 20px;
+    margin-top: 22%
+}
+
+.titre_h25 {
+    font-size: 25px;
+    color: white;
+    margin-top: 55px;
+    margin-bottom: 20px;
+}
+
+.titre_h23 {
+    font-size: 20px;
+    color: rgb(1, 168, 239);
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+.graphe2 {
+    max-width:93%;
+    height: auto;
+    border: 5px solid gray;
+}
+
+.graphe {
+    max-width: 85%;
+    height: auto;
+    border: 5px solid gray;
+}
+
+
+.graphe66 {
+    max-width: 85%;
+    height: auto;
+    border: 5px solid grey;
+    margin-bottom: 100px;
+}
+/* Infos Section Styles */
+
+
+.infos {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    background-color: black;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 0 auto;
+    
+}
+
+
+.titre_h89 {
+    font-size: 25px;
+    color: white;
+    margin-top: 120px;
+    margin-bottom: 20px;
+}
+
+.graphe89 {
+    max-width:85%;
+    height: auto;
+    border: 5px solid grey;
+}
+
+
+/* Contact Section Styles */
+
+.Contact {
+    background-color: black;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 90vh;
+}
+
+.Contact h2 {
+    padding-top: 10vh;
+    color: white; 
+    margin-bottom: 100px;
+}
+
+
+
+.Contact ul {
+    position:relative;
+    display:flex;
+    margin:0;
+    padding:0;
+}
+
+.Contact ul li {
+    list-style:none;
+    margin:0 5px;
+}
+
+.Contact ul li a .fa {
+    font-size: 40px;
+    color: #262626;
+    line-height:80px;
+    transition: .5s;
+    padding-right: 14px;
+}
+
+.Contact ul li a span {
+    padding:0;
+    margin:0;
+    position:absolute;
+    top: 30px;
+    color: #262626;
+    letter-spacing: 4px;
+    transition: .5s;
+}
+
+.Contact ul li a {
+    text-decoration: none;
+    display:absolute;
+    display:block;
+    width:210px;
+    height:80px;
+    background: #fff;
+    text-align:left;
+    padding-left: 20px;
+    transform: rotate(-30deg) skew(25deg) translate(0,0);
+    transition:.5s;
+    box-shadow: -20px 20px 10px rgba(0,0,0,.5);
+}
+
+.Contact ul li a:before {
+    content: '';
+    position: absolute;
+    top:10px;
+    left:-20px;
+    height:100%;
+    width:20px;
+    background: #b1b1b1;
+    transform: .5s;
+    transform: rotate(0deg) skewY(-45deg);
+}
+
+.Contact ul li a:after {
+    content: '';
+    position: absolute;
+    bottom:-20px;
+    left:-10px;
+    height:20px;
+    width:100%;
+    background: #b1b1b1;
+    transform: .5s;
+    transform: rotate(0deg) skewX(-45deg);
+}
+
+.Contact ul li a:hover {
+    transform: rotate(-30deg) skew(25deg) translate(20px,-15px);
+    box-shadow: -50px 50px 50px rgba(0,0,0,.5);
+}
+
+.Contact ul li:hover .fa {
+    color:#fff;
+}
+
+.Contact ul li:hover span {
+    color:#fff;
+}
+
+.Contact ul li:hover:nth-child(1) a{
+    background: #3b5998;
+}
+
+.Contact ul li:hover:nth-child(1) a:before{
+    background: #365492;
+}
+
+.Contact ul li:hover:nth-child(1) a:after{
+    background: #4a69ad;
+}
+
+.Contact ul li:hover:nth-child(2) a{
+    background: #00aced;
+}
+
+.Contact ul li:hover:nth-child(2) a:before{
+    background: #097aa5;
+}
+
+.Contact ul li:hover:nth-child(2) a:after{
+    background: #53b9e0;
+}
+
+.Contact ul li:hover:nth-child(3) a{
+    background: #dd4b39;
+}
+
+.Contact ul li:hover:nth-child(3) a:before{
+    background: #b33a2b;
+}
+
+.Contact ul li:hover:nth-child(3) a:after{
+    background: #e66a5a;
+}
+
+.Contact ul li:hover:nth-child(4) a{
+    background: #e4405f;
+}
+
+.Contact ul li:hover:nth-child(4) a:before{
+    background: #d81c3f;
+}
+
+.Contact ul li:hover:nth-child(4) a:after{
+    background: #e46880;
+}
